@@ -5,9 +5,9 @@ site_description: "Transforming spaces with faith-centered art."
 theme:
   name: material
   palette:
-    primary: "#003366" # Dark Blue/Navy
-    accent: "#FFD700" # Beige/Gold
-    background: "#F5F5DC" # Soft Beige
+    primary: "#002244" # Darker Blue for better contrast
+    accent: "#CC9900" # Darker Gold for better contrast
+    background: "#FFFFFF" # White background for maximum contrast
   font:
     text: "Open Sans, sans-serif" # Clean sans-serif for body text
     code: "Roboto Mono, monospace" # Modern monospace for code blocks
@@ -23,7 +23,6 @@ theme:
       family: "Roboto Mono"
       variants: ["400"]
   favicon: "images/favicon.png"
-  logo: "images/logo.png"
 
 
 nav:
