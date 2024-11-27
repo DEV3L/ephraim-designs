@@ -1,0 +1,52 @@
+/* Override primary color for links */
+a {
+  color: #003366; /* Dark Blue/Navy */
+}
+
+/* Style headings with Playfair Display */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+  color: #003366; /* Dark Blue/Navy */
+}
+
+/* Italicize the tagline if used in specific places */
+.tagline {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  color: #ffd700; /* Beige/Gold */
+}
+
+/* Code block styling */
+code,
+pre {
+  background-color: #f5f5dc; /* Soft Beige */
+  border-radius: 4px;
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 0.9em;
+  color: #777777;
+  background-color: #f5f5dc; /* Soft Beige */
+}
+
+/* Remove unnecessary margins for a cleaner look */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Decorative patterns on specific sections (optional) */
+.decorative-pattern {
+  background-image: url("../images/decorative-pattern.png"); /* Path to your pattern image */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

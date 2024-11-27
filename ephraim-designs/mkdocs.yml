@@ -1,3 +1,42 @@
 site_name: Ephraim Designs
+site_url: https://dev3l.github.io/ephraim-designs/
+site_description: "Transforming spaces with faith-centered art."
+
+theme:
+  name: material
+  palette:
+    primary: "#003366" # Dark Blue/Navy
+    accent: "#FFD700" # Beige/Gold
+    background: "#F5F5DC" # Soft Beige
+  font:
+    text: "Open Sans, sans-serif" # Clean sans-serif for body text
+    code: "Roboto Mono, monospace" # Modern monospace for code blocks
+    headings: "Playfair Display, serif" # Elegant serif for headings
+  fonts:
+    text:
+      family: "Open Sans"
+      variants: ["300", "400", "600"]
+    heading:
+      family: "Playfair Display"
+      variants: ["400", "700"]
+    monospace:
+      family: "Roboto Mono"
+      variants: ["400"]
+  favicon: "images/favicon.png"
+  logo: "images/logo.png"
+
+
 nav:
   - Home: index.md
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite

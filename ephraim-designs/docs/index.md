@@ -1,3 +1,5 @@
-# Hello World
+# Welcome to Ephraim Designs
 
-Welcome to your MkDocs site!
+<div class="tagline">"Faith in Every Stroke"</div>
+
+Welcome to EPHRAIM DESIGNS, where faith meets artistry...
