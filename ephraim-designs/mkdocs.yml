@@ -1,7 +1,10 @@
+# Site Configuration
 site_name: Ephraim Designs
 site_url: https://dev3l.github.io/ephraim-designs/
 site_description: "Transforming spaces with faith-centered art."
+site_author: "Ephraim Designs Team"
 
+# Theme Configuration
 theme:
   name: material
   palette:
@@ -12,30 +15,65 @@ theme:
     text: "Open Sans, sans-serif" # Clean sans-serif for body text
     code: "Roboto Mono, monospace" # Modern monospace for code blocks
     headings: "Playfair Display, serif" # Elegant serif for headings
-  fonts:
-    text:
-      family: "Open Sans"
-      variants: ["300", "400", "600"]
-    heading:
-      family: "Playfair Display"
-      variants: ["400", "700"]
-    monospace:
-      family: "Roboto Mono"
-      variants: ["400"]
   favicon: "images/favicon.png"
+  logo: "images/logo-dark.png"
 
-
+# Navigation
 nav:
   - Home: index.md
+  - About: about.md
+  - Portfolio: portfolio.md
+  - Services: services.md
+  - Community Engagement: community-engagement.md
+  - Pricing: pricing.md
+  - Events: events.md
+  - Blog: blog/index.md
+  - Testimonials: testimonials.md
+  - Contact: contact.md
 
+# Extra CSS and JavaScript
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - scripts/custom.js
 
+# Markdown Extensions
 markdown_extensions:
   - admonition
-  - codehilite
+  - codehilite:
+      guess_lang: false
   - toc:
       permalink: true
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.inlinehilite
+  - footnotes
+  - meta
+  - md_in_html
+
+# Plugins
+plugins:
+  - search
+  - macros
+  - ultralytics:
+      meta: true
+      twitter: true
+      open_graph: true
+      json_ld: true
+      sharing_buttons: true
+      faq_parsing: true
+  - minify_html
+
+# Extra Variables
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dev3l
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/dev3l
+  footer: |
+    <footer>
+      <p>Site built by Justin Beall from Dev3loper AI | AI-XP Engineer | 
+      <a href="mailto:dev3loper.ai@gmail.com">dev3loper.ai@gmail.com</a> | 
+      <a href="https://dev3loper.ai">https://dev3loper.ai</a></p>
+    </footer>
