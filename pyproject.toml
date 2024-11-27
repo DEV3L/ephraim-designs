@@ -1,0 +1,46 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "i_am_a_cat"
+dynamic = ["version"]
+description = "A faith-driven creative brand transforming spaces and inspiring hearts through vibrant murals, captivating art, and meaningful storytelling."
+license = { file = "LICENSE" }
+readme = "README.md"
+authors = [
+    { name = "Justin Beall", email = "jus.beall@gmail.com" },
+    { name = "Brandon Dees", email = "dees@pm.me" },
+]
+requires-python = ">=3.12"
+dependencies = ["loguru", "python-dotenv"]
+
+[tool.hatch.version]
+path = "setup.cfg"
+pattern = "version = (?P<version>\\S+)"
+
+[tool.hatch.build.targets.sdist]
+include = ["/src"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.hatch.envs.default]
+type = "virtual"
+path = ".venv"
+dependencies = ["pyright", "pytest", "pytest-cov"]
+
+[tool.hatch.envs.default.scripts]
+build = "pytest --cache-clear --cov --cov-report lcov --cov-report term"
+
+[tool.hatch.envs.hatch-static-analysis]
+config-path = "ruff_defaults.toml"
+
+[tool.ruff]
+extend = "ruff_defaults.toml"
+
+[tool.ruff.lint.flake8-tidy-imports]
+ban-relative-imports = "parents"
+
+[tool.pytest.ini_options]
+markers = "integration: an integration test that hits external uncontrolled systems"
