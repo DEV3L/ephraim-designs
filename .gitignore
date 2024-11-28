@@ -1,5 +1,7 @@
 .env
 
+ephraim-designs/site
+
 bin
 tmp
 .DS_Store
