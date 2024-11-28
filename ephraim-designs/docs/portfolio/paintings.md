@@ -7,14 +7,14 @@ keywords:
   - faith-inspired paintings
   - home and gallery art
   - Jason Rakich paintings
-image: "/images/portfolio/paintings-banner.png"
+image: "../../images/portfolio/paintings-banner.png"
 author: "Ephraim Designs"
 date: "2024-11-27"
 ---
 
 # Paintings Portfolio
 
-<img src="/images/portfolio/abstract-painting-display.png" alt="Abstract painting display with swirling patterns and soft light" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
+<img src="../../images/portfolio/abstract-painting-display.png" alt="Abstract painting display with swirling patterns and soft light" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
 
 ## Abstract and Faith-Centered Canvas Art
 
@@ -25,14 +25,16 @@ Ephraim Designs offers a collection of original paintings that blend spiritual t
 ## Featured Collections
 
 ### **Abstract Faith**
+
 - Paintings with bold brushstrokes, radiant gold highlights, and layered textures that evoke themes of grace and redemption.
 
 ### **Nature’s Spirit**
+
 - Works inspired by natural landscapes, incorporating elements like flowing water, blooming flowers, and dynamic skies.
 
 ---
 
-<img src="/images/portfolio/paintings-gallery-placeholder.png" alt="Placeholder for paintings gallery featuring abstract canvas art" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
+<img src="../../images/portfolio/paintings-gallery-placeholder.png" alt="Placeholder for paintings gallery featuring abstract canvas art" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 ## Full Portfolio Coming Soon
 

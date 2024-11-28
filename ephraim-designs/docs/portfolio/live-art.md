@@ -6,14 +6,14 @@ keywords:
   - community art events
   - live painting experiences
   - Jason Rakich live art
-image: "/images/portfolio/live-art-banner.png"
+image: "../../images/portfolio/live-art-banner.png"
 author: "Ephraim Designs"
 date: "2024-11-27"
 ---
 
 # Live Art Portfolio
 
-<img src="/images/portfolio/live-art-performance.png" alt="Abstract live art performance with vibrant strokes and energetic motion" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
+<img src="../../images/portfolio/live-art-performance.png" alt="Abstract live art performance with vibrant strokes and energetic motion" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
 
 ## Bringing Art to Life in the Community
 
@@ -33,7 +33,7 @@ Ephraim Designs' live art sessions bring creativity into the spotlight. From fes
 
 ---
 
-<img src="/images/portfolio/live-art-gallery-placeholder.png" alt="Placeholder for live art gallery featuring abstract, vibrant creations" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
+<img src="../../images/portfolio/live-art-gallery-placeholder.png" alt="Placeholder for live art gallery featuring abstract, vibrant creations" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 ## Full Portfolio Coming Soon
 

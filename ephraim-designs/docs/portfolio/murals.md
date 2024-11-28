@@ -7,14 +7,14 @@ keywords:
   - large-scale art
   - community art projects
   - Jason Rakich murals
-image: "images/portfolio/murals-banner.png"
+image: "../../images/portfolio/murals-banner.png"
 author: "Ephraim Designs"
 date: "2024-11-27"
 ---
 
 # Murals Portfolio
 
-<img src="/images/portfolio/abstract-mural-wall.png" alt="Abstract mural wall featuring flowing patterns and radiant colors" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
+<img src="../../images/portfolio/abstract-mural-wall.png" alt="Abstract mural wall featuring flowing patterns and radiant colors" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
 
 ## Transforming Spaces with Large-Scale Murals
 
@@ -34,7 +34,7 @@ Ephraim Designs specializes in creating impactful murals that bring faith, beaut
 
 ---
 
-<img src="/images/portfolio/mural-gallery-placeholder.png" alt="Placeholder for mural gallery featuring abstract themes" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
+<img src="../../images/portfolio/mural-gallery-placeholder.png" alt="Placeholder for mural gallery featuring abstract themes" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 ## Full Portfolio Coming Soon
 

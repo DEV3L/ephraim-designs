@@ -8,14 +8,14 @@ keywords:
   - live art experiences
   - community art projects
   - spiritual storytelling art
-image: "/images/about/faith-mural-abstract.png"
+image: "../images/about/faith-mural-abstract.png"
 author: "Ephraim Designs"
 date: "2024-11-27"
 ---
 
 # About Ephraim Designs
 
-<img src="/images/about/faith-mural-abstract.png" alt="Abstract faith-inspired mural with radiant gold light and flowing patterns" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
+<img src="../images/about/faith-mural-abstract.png" alt="Abstract faith-inspired mural with radiant gold light and flowing patterns" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
 
 ## Elevating Faith Through Art in Wooster, Ohio
 
@@ -31,7 +31,7 @@ _"To create transformative art that glorifies faith, inspires connection, and br
 **Vision:**  
 _"To establish Ephraim Designs as a cornerstone of artistic faith expression, transforming homes, communities, and worship spaces into reflections of hope, grace, and storytelling."_
 
-<img src="/images/about/graceful-mural.png" alt="A graceful mural blending abstract patterns and spiritual symbols" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
+<img src="../images/about/graceful-mural.png" alt="A graceful mural blending abstract patterns and spiritual symbols" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 ---
 
@@ -47,7 +47,7 @@ _"To establish Ephraim Designs as a cornerstone of artistic faith expression, tr
 - **High-End Originals:** Premium, large-scale pieces for collectors and galleries.
 - **Affordable Prints:** High-quality reproductions for art enthusiasts and personal spaces.
 
-<img src="/images/about/abstract-canvas-display.png" alt="Abstract canvas paintings on display" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 3/2;">
+<img src="../images/about/abstract-canvas-display.png" alt="Abstract canvas paintings on display" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 3/2;">
 
 ---
 
@@ -55,7 +55,7 @@ _"To establish Ephraim Designs as a cornerstone of artistic faith expression, tr
 
 We actively participate in local festivals like **Window Wonderland** and the **Wooster Farmers’ Market**, collaborate with the **Wayne Center for the Arts**, and partner with local businesses to create murals that resonate with community values.
 
-<img src="/images/about/community-art-vibrancy.png" alt="A vibrant community art project with abstract elements" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
+<img src="../images/about/community-art-vibrancy.png" alt="A vibrant community art project with abstract elements" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
 
 ---
 
@@ -65,7 +65,7 @@ We actively participate in local festivals like **Window Wonderland** and the **
 - **Enhance Online Presence:** Strengthening digital platforms to reach a broader audience.
 - **Community Projects:** Increasing participation in larger-scale initiatives to inspire and uplift.
 
-<img src="/images/about/abstract-goals.png" alt="Abstract art representing the future goals of Ephraim Designs" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
+<img src="../images/about/abstract-goals.png" alt="Abstract art representing the future goals of Ephraim Designs" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 ---
 
@@ -78,7 +78,7 @@ We actively participate in local festivals like **Window Wonderland** and the **
 - **Follow Us:**
   - **Facebook:** [Ephraim Designs](https://www.facebook.com/jason.rakich.1)
 
-<img src="/images/about/inspirational-quote.png" alt="Inspirational quote overlay on abstract background" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 3/2;">
+<img src="../images/about/inspirational-quote.png" alt="Inspirational quote overlay on abstract background" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 3/2;">
 
 ---
 

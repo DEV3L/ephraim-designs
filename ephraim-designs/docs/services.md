@@ -8,14 +8,14 @@ keywords:
   - live art events
   - canvas paintings
   - community art projects
-image: "/images/services/services-banner.png"
+image: "../images/services/services-banner.png"
 author: "Ephraim Designs"
 date: "2024-11-27"
 ---
 
 # Services
 
-<img src="/images/services/services-overview.png" alt="Abstract representation of Ephraim Designs' creative services with radiant patterns" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
+<img src="../images/services/services-overview.png" alt="Abstract representation of Ephraim Designs' creative services with radiant patterns" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
 
 ## Transforming Spaces Through Faith and Art
 
@@ -27,7 +27,7 @@ Ephraim Designs provides a range of services to inspire and transform communitie
 
 ### **Custom Murals**
 
-<img src="/images/services/custom-murals.png" alt="Abstract mural design with golden light and flowing patterns symbolizing community" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
+<img src="../images/services/custom-murals.png" alt="Abstract mural design with golden light and flowing patterns symbolizing community" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 Faith-inspired, large-scale murals designed to beautify and transform any space. Perfect for churches, businesses, schools, and public spaces, each mural is tailored to reflect the values and stories of its audience.
 
@@ -39,7 +39,7 @@ Faith-inspired, large-scale murals designed to beautify and transform any space.
 
 ### **Canvas Paintings**
 
-<img src="/images/services/canvas-paintings.png" alt="Abstract canvas painting with swirling gold and deep blue brushstrokes" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
+<img src="../images/services/canvas-paintings.png" alt="Abstract canvas painting with swirling gold and deep blue brushstrokes" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 Original, faith-centered artworks crafted to inspire and elevate personal and shared spaces. Each painting is a unique blend of abstract art and storytelling, available in both original and print formats.
 
@@ -51,7 +51,7 @@ Original, faith-centered artworks crafted to inspire and elevate personal and sh
 
 ### **Live Art Experiences**
 
-<img src="/images/services/live-art.png" alt="Vibrant abstract depiction of a live art session with dynamic motion" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
+<img src="../images/services/live-art.png" alt="Vibrant abstract depiction of a live art session with dynamic motion" style="display: block; margin: auto; width: 100%; max-width: 900px; aspect-ratio: 16/9;">
 
 Interactive live painting sessions at events and workshops, bringing creativity to life in real-time. Perfect for festivals, community gatherings, and private events.
 
@@ -63,7 +63,7 @@ Interactive live painting sessions at events and workshops, bringing creativity 
 
 ### **Faith-Based Community Projects**
 
-<img src="/images/services/community-projects.png" alt="Abstract representation of a collaborative community mural with warm tones" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
+<img src="../images/services/community-projects.png" alt="Abstract representation of a collaborative community mural with warm tones" style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 Collaborative art projects that engage and inspire communities. From group mural workshops to large-scale installations, these projects foster connection and creativity.
 
