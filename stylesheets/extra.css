@@ -48,5 +48,5 @@ footer a:hover {
 }
 
 footer.md-footer {
-  display: none;
+  display: none !important;
 }
