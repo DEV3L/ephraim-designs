@@ -1,6 +1,6 @@
 # ABOUT EPHRAIM DESIGNS AND JASON RAKICH THE ARTIST
 
-**EPHRAIM DESIGNS: Elevating Faith Through Art in Wooster, Ohio**
+## **EPHRAIM DESIGNS: Elevating Faith Through Art in Wooster, Ohio**
 
 **EPHRAIM DESIGNS**, led by the talented artist **Jason E. Rakich**, is dedicated to transforming spaces and inspiring communities through faith-centered art. Rooted in storytelling, spiritual conviction, and exceptional craftsmanship, EPHRAIM DESIGNS specializes in creating vibrant murals and evocative canvas paintings that reflect themes of grace, redemption, and community identity.
 
@@ -307,80 +307,6 @@ EPHRAIM DESIGNS is deeply committed to fostering community connections and drivi
 **Conclusion:**  
 The current art market presents diverse opportunities for artists specializing in murals, live painting, and faith-based art. By leveraging community engagement, participating in events, and establishing a robust online presence, artists like Jason can effectively navigate and thrive in this evolving landscape.
 
-### **10. Immediate Next Steps**
-
-To establish and expand the "EPHRAIM DESIGNS" brand in Wooster, Ohio, Jason can undertake the following targeted actions:
-
-1. **Engage with Local Art Institutions**
-
-   - **Wayne Center for the Arts:** Collaborate on exhibitions, teach workshops, or contribute to community art projects.
-
-2. **Participate in Community Events**
-
-   - **Window Wonderland (November 22, 2024):**
-     - Showcase art through live painting demonstrations or temporary installations.
-     - Create a small mural or display finished works in a high-visibility spot during the event.
-   - **Wooster Farmers’ Market (Ongoing Saturdays):**
-     - Reserve a booth to sell smaller, faith-based artwork like prints, mini-paintings, or custom ornaments.
-     - Offer live sketching or painting to attract visitors and increase engagement.
-   - **Main Street Wooster Events:**
-     - Partner with Main Street Wooster to create a temporary mural or live art piece for public display during holiday or cultural events.
-
-3. **Explore Art Commissions and Opportunities**
-
-   - **NAMI of Wayne and Holmes County Art Exhibit (Nov 19 - Dec 14, 2024):**
-     - Create faith-based artwork focusing on mental health and spirituality themes.
-
-4. **Collaborate with Local Businesses**
-
-   - **Murals and Interior Art:**
-     - Partner with businesses like Sure House Coffee or Local Roots Market to create murals or art displays that reflect community culture and values.
-
-5. **Establish an Online Presence**
-
-   - **Website and Social Media:**
-     - Develop a professional website to showcase the "EPHRAIM" brand, share the creative process, and engage with a broader audience.
-     - Utilize social media platforms to highlight projects, engage with followers, and promote upcoming events.
-
-6. **Offer Workshops and Classes**
-   - **Art Education:**
-     - Conduct workshops or classes at local community centers or through the Wayne Center for the Arts, sharing techniques and inspiring emerging artists.
-
-**Immediate Next Steps:**
-
-1. **Contact Churches:**  
-   Email or call 5-7 churches in Wooster with a proposal for murals or smaller commissioned works.
-
-2. **Farmers’ Market Booth:**  
-   Reserve a spot at the next Wooster Farmers’ Market and prepare a mix of affordable items (prints, mini-paintings, ornaments) for sale.
-
-3. **Main Street Partnership:**  
-   Propose a temporary mural for downtown Wooster during the Window Wonderland event.
-
-4. **Local Business Pitch:**  
-   Visit Sure House Coffee or Local Roots to pitch an indoor mural or art display partnership.
-
-5. **Social Media Push:**  
-   Post 3 pieces of content this week, showcasing murals, scripture-inspired works, and holiday art ideas for potential commissions.
-
-### **11. Branding Elements**
-
-**Logo Description:**
-
-1. **Shape and Layout:**  
-   The logo is circular, featuring concentric circles that create a spiraling effect, evoking a sense of inward movement and creativity.
-
-2. **Typography:**  
-   The text “EPHRAIM DESIGNS” uses an elegant serif font, conveying professionalism and tradition, contrasted with modern streak-like patterns symbolizing dynamic creativity.
-
-3. **Decorative Elements:**  
-   Angular, streak-like patterns extend outward from the circle, suggesting motion and energy, making the logo visually stimulating and memorable.
-
-4. **Color Palette:**
-   - **Serene Blue:** Reflecting peace, grace, and spirituality.
-   - **Vibrant Gold:** Representing divine light, inspiration, and excellence.
-   - **Natural Green:** Evoking renewal, growth, and connection.
-
 **Business Card Design:**
 
 **Front of the Card:**
@@ -405,7 +331,7 @@ To establish and expand the "EPHRAIM DESIGNS" brand in Wooster, Ohio, Jason can 
   - Culinary Cuisine
   - Musician
   - Hot Sauce
-  - [**Amutraperiener**] _(Note: Please verify the correct term or intended service)_
+  - Entrepreneur
 
 **Overall Branding Summary:**
 
@@ -526,246 +452,280 @@ Continuous portfolio expansion, exploring new mediums, and adapting to market tr
 
 **EPHRAIM DESIGNS** encapsulates **Jason E. Rakich**'s passion for faith, creativity, and community. By delivering high-quality, meaningful art and actively engaging with the Wooster community, EPHRAIM DESIGNS is set to become a beloved and influential artistic presence, inspiring hearts and transforming spaces with every brushstroke. This comprehensive strategy ensures that all aspects of the business—from artistic offerings to community engagement and marketing—are aligned with the brand's mission and vision, paving the way for sustained growth and lasting impact.
 
-**Next Steps:**
+## **EPHRAIM DESIGNS: Comprehensive Product Definition**
 
-1. **Finalize Branding Elements:**
+1. **Product Name:**  
+   **EPHRAIM DESIGNS**
 
-   - Verify and correct any terms or service listings.
-   - Ensure consistency across all branding materials.
+2. **Tagline:**  
+   **"Faith in Every Stroke"**
 
-2. **Develop and Launch the Online Presence:**
+3. **Short Description:**  
+   EPHRAIM DESIGNS creates transformative, faith-centered murals and paintings that inspire communities and elevate spaces with spiritual and artistic excellence.
 
-   - Create a professional website showcasing the portfolio and services.
-   - Integrate e-commerce capabilities for online sales.
+4. **Problem:**  
+   Many communities and organizations seek meaningful art that reflects their faith and values but lack access to artists who can deliver customized, spiritually resonant pieces.
 
-3. **Engage in Targeted Marketing Campaigns:**
+5. **North Star Metrics:**
 
-   - Utilize social media to share projects, behind-the-scenes content, and engage with the audience.
-   - Implement email marketing to keep clients informed about new offerings and events.
+   - Achieve $X in monthly sales revenue.
+   - Acquire Y new clients (churches, businesses) each quarter.
+   - Increase online engagement by Z% within six months.
+   - Host W live painting events annually.
+   - Conduct V workshops and classes per year.
 
-4. **Expand Community Engagement:**
+6. **Product Vision:**  
+   _"EPHRAIM DESIGNS transforms spaces and inspires communities through faith-centered murals and paintings, fostering connection, hope, and spiritual reflection in every creation."_
 
-   - Host workshops and live painting events to deepen community connections.
-   - Collaborate with local organizations and businesses to increase visibility and impact.
+7. **Business Case:**  
+   EPHRAIM DESIGNS fills a unique niche by blending faith and art, offering customized murals and paintings that not only beautify spaces but also embody spiritual narratives. This differentiation attracts churches, community centers, and businesses looking for meaningful artistic expressions, positioning EPHRAIM DESIGNS as a leader in faith-based art in Wooster, Ohio.
 
-5. **Monitor and Adapt Strategies:**
-   - Regularly review performance metrics to assess progress.
-   - Gather and incorporate feedback to continuously improve offerings and strategies.
+8. **Key Features:**
 
----
+   - **Custom Murals:** Personalized designs for churches, businesses, and community spaces.
+   - **Canvas Paintings:** Diverse themes from abstract to narrative to suit various preferences.
+   - **Live Painting Events:** Interactive sessions that engage communities and showcase artistic processes.
+   - **Faith-Based Merchandise:** Accessible products like prints, ornaments, and apparel.
+   - **Workshops and Classes:** Educational opportunities for community involvement and skill development.
 
-For further information or to discuss opportunities, please contact Jason Rakich at [Jasonrakich@outlook.com](mailto:Jasonrakich@outlook.com) or call 330-347-8798.
+9. **Technology and Users:**
 
-## ---
+   - **Platforms:** E-commerce website, Instagram, Facebook.
+   - **Integration:** Secure payment systems, social media marketing tools.
+   - **Target Users:** Churches, local businesses, art enthusiasts, community members seeking meaningful art.
 
-### **Branding Overview**
+10. **Branding Elements:**
+    - **Logo:** Circular design with concentric spirals, elegant serif typography, dark blue and gold color palette.
+    - **Business Card:** Front with logo, email, tagline, and name; back with contact info and service list.
+    - **Color Palette:** Serene Blue, Vibrant Gold, Natural Green.
+    - **Typography:** Elegant serif for primary, modern sans-serif for accents.
+    - **Tone of Voice:** Uplifting, authentic, reflective.
 
-#### **Fonts:**
+### **Brand Overview**
 
-1. **Primary Font (Logo):**
+**Brand Essence**
 
-   - **Font:** _Playfair Display_
-   - **Style:** Bold, serif, elegant.
+**Tagline:**  
+_"Faith in Every Stroke"_
 
-2. **Supporting Fonts (Body and Contact Details):**
+**Brand Story:**  
+EPHRAIM DESIGNS embodies Jason Rakich's dedication to faith, storytelling, and community connection. Drawing from his spiritual convictions and creative exploration of themes like grace, redemption, and beauty, Jason transforms everyday spaces into profound expressions of hope and inspiration. Through murals, paintings, and live art experiences, EPHRAIM DESIGNS combines technical expertise with personal narratives to create works that uplift and resonate with individuals and communities alike.
 
-   - **Font:** _Open Sans_
-   - **Style:** Clean, sans-serif, modern, and highly readable.
+### **Core Brand Identity**
 
-3. **Tagline Font:**
-   - **Font:** _Playfair Display Italic_
-   - **Style:** Italicized serif, adding personality and emphasis.
+**Mission Statement:**  
+“To create transformative art that glorifies faith, inspires connection, and brings light and meaning into every space.”
 
-#### **Colors:**
+**Vision Statement:**  
+“To establish EPHRAIM DESIGNS as a cornerstone of artistic faith expression, transforming homes, communities, and worship spaces into reflections of hope, grace, and storytelling.”
 
-1. **Primary Color (Dark Blue/Navy):**
+**Core Values:**
 
-   - **HEX:** `#003366`
+1. **Faith in Action:** Creating art that glorifies God and reflects spiritual truths.
+2. **Community Engagement:** Building relationships through collaborative and participatory projects.
+3. **Storytelling:** Capturing meaningful narratives that inspire reflection and connection.
+4. **Excellence:** Upholding the highest standards of craftsmanship, creativity, and authenticity.
+5. **Innovation:** Exploring new mediums, techniques, and formats to push creative boundaries.
 
-2. **Accent Color (Gold):**
+### **The Artist: Jason E. Rakich**
 
-   - **HEX:** `#FFD700`
+**Personality Traits Driving the Brand:**
 
-3. **Background Color (Soft Beige):**
-   - **HEX:** `#F5F5DC`
+- **Faithful Storyteller:** Draws inspiration from scripture and personal spiritual reflection, making faith the foundation of EPHRAIM DESIGNS.
+- **Community Connector:** Known for openness, humor, and a collaborative spirit, excels at forging bonds with clients, followers, and local communities.
+- **Visionary Artist:** Blends technical skill with innovative experimentation, exploring new ways to tell a story.
+- **Grounded Yet Ambitious:** Balances local community engagement with aspirations to share art on larger, even global stages.
 
----
+**Artistic Strengths:**
 
-### **Updated `mkdocs.yml` Configuration**
+- Masterful use of bold colors, intricate details, and evocative themes.
+- Versatility in style, from large-scale murals to intimate abstract or narrative paintings.
+- Engaging personality that invites viewers and clients into the creative process.
 
-Here’s the most updated and refined version of the `mkdocs.yml` file:
+**Life and Personality Insights:**
 
-```yaml
-site_name: Ephraim Designs
-site_url: https://dev3l.github.io/ephraim-designs/
-site_description: "Transforming spaces with faith-centered art."
+Beyond his professional endeavors, Jason is a passionate musician and chef. He plays guitar and performs vocals in local bands, integrating his love for music into his artistic journey. As a chef, he enjoys experimenting with new recipes and culinary techniques, using creativity in the kitchen to craft meaningful and enjoyable experiences. Jason actively participates in local festivals and events, blending his creative work with personal hobbies like live painting and furniture decoration, further solidifying his role as a community anchor.
 
-theme:
-  name: material
-  palette:
-    primary: "#003366" # Dark Blue/Navy
-    accent: "#FFD700" # Gold
-    background: "#F5F5DC" # Soft Beige
-  font:
-    text: "Open Sans, sans-serif" # Clean sans-serif for body text
-    code: "Roboto Mono, monospace" # Modern monospace for code blocks
-    headings: "Playfair Display, serif" # Elegant serif for headings
-  favicon: "images/favicon.png"
-  logo: "images/logo.png"
+### **Artistic Pillars**
 
-nav:
-  - Home: index.md
-  - About: about.md
-  - Portfolio:
-      - Murals: portfolio/murals.md
-      - Paintings: portfolio/paintings.md
-  - Services: services.md
-  - Testimonials: testimonials.md
-  - Contact: contact.md
+1. **Murals and Public Art: The Brand’s Foundation**
 
-extra_css:
-  - stylesheets/extra.css
+   - **Focus:** Large-scale, faith-inspired works that transform spaces into immersive visual experiences.
+   - **Themes:** Grace, redemption, biblical storytelling, nature, and community identity.
+   - **Target Clients:** Churches, community centers, businesses, schools, and private collectors.
 
-markdown_extensions:
-  - admonition
-  - codehilite
-  - toc:
-      permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.inlinehilite
+2. **Faith-Centered Canvas Art: Inspiring Personal Reflection**
 
-plugins:
-  - search
-  - macros
-  - ultralytics
-  - minify_html
-```
+   - **Focus:** Paintings that blend spiritual symbolism with emotional depth.
+   - **Themes:** Scriptural inspiration, nature’s beauty, abstract explorations of faith and emotion.
+   - **Offerings:**
+     - High-end originals for galleries and collectors.
+     - Affordable prints and smaller works for personal spaces.
 
----
+3. **Live and Collaborative Art: Bringing Art to Life**
 
-### **Custom CSS for Enhanced Branding**
+   - **Focus:** Interactive experiences, including live painting at events, workshops, and community projects.
+   - **Goals:** Engage audiences in the creative process and foster community dialogue through participatory art.
 
-Add the following to `stylesheets/extra.css` for additional styling:
+4. **Faith-Based Merchandise: Expanding Accessibility**
+   - **Focus:** Prints, apparel, and home décor items featuring signature designs from EPHRAIM DESIGNS’ portfolio.
+   - **Target Audience:** Art enthusiasts, church communities, and gift shoppers.
 
-```css
-/* General link styling */
-a {
-  color: #003366; /* Dark Blue/Navy */
-  text-decoration: none;
-}
+### **Core Strategy**
 
-a:hover {
-  text-decoration: underline;
-  color: #ffd700; /* Gold */
-}
+**Murals and Paintings: Strategy for Core Artistic Growth**
 
-/* Style headings with Playfair Display */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Playfair Display", serif;
-  color: #003366; /* Dark Blue/Navy */
-}
+To position murals and paintings as Jason’s primary revenue streams while preparing for smaller-scale showings at fairs and public gatherings, the following strategy focuses on optimizing his portfolio, marketing, and logistical readiness.
 
-/* Italicize the tagline */
-.tagline {
-  font-family: "Playfair Display", serif;
-  font-style: italic;
-  color: #ffd700; /* Gold */
-}
+#### **1.1. Expanding Mural Opportunities**
 
-/* Code block styling */
-code,
-pre {
-  background-color: #f5f5dc; /* Soft Beige */
-  border-radius: 4px;
-  padding: 5px;
-}
+**Target Audiences:**
 
-/* Footer styling */
-footer {
-  text-align: center;
-  padding: 20px 0;
-  font-size: 0.9em;
-  color: #003366;
-  background-color: #f5f5dc; /* Soft Beige */
-}
-```
+- **Local Businesses:** Cafes, restaurants, retail spaces seeking vibrant and unique wall art to enhance their ambiance.
+- **Municipal Organizations:** Entities funding public beautification projects aiming to foster community identity.
+- **Nonprofits and Schools:** Institutions looking for community-based mural art that reflects their values and mission.
+- **Real Estate Developers:** Developers interested in unique aesthetics for residential and commercial properties.
 
----
+**Portfolio Development:**
 
-### **Image Descriptions and Suggestions**
+- **Highlight Versatility:** Showcase abstract, narrative, and community-driven themes to appeal to a diverse client base.
+- **Showcase Process:** Document murals from concept sketches to completion with photos and videos, demonstrating professionalism and craftsmanship.
 
-If you don't have images ready, here are suggestions based on MidJourney prompts:
+**Marketing Murals:**
 
-#### **Logo**
+- **Pitch Packages:** Develop templates outlining project details, pricing tiers, and design examples for prospective clients.
+- **Local Networking:** Attend city council meetings, business association events, and community gatherings to connect with decision-makers.
+- **Referrals and Testimonials:** Utilize satisfied clients to provide testimonials and referrals, enhancing credibility and trust.
 
-- **Description:** A circular logo with concentric spirals symbolizing faith and creativity, dark blue (#003366) and gold (#FFD700) as primary colors. Elegant serif typography (Playfair Display). Background soft beige (#F5F5DC). Ratio: 1:1.
-- **Prompt:** "A modern circular logo with elegant concentric spirals, in dark blue and gold, featuring a serif typography, minimalistic and professional, soft beige background, 1:1 aspect ratio."
+#### **1.2. Selling Paintings**
 
-#### **Homepage Banner**
+**Target Audiences:**
 
-- **Description:** A large banner showcasing a mural blending faith-based symbols, community storytelling, and nature elements. Vibrant colors complementing dark blue and gold tones. Ratio: 16:9.
-- **Prompt:** "A captivating mural combining faith-based imagery, nature themes, and abstract storytelling, in bold colors with dark blue and gold accents, 16:9 aspect ratio."
+- **Individual Collectors and Interior Designers:** Seeking unique artwork for personal and professional spaces.
+- **Art Enthusiasts at Fairs and Festivals:** Individuals interested in acquiring distinctive pieces at public events.
+
+**Portfolio Development:**
+
+- **Organize by Theme:** Categorize paintings into abstract, nature-inspired, and narrative collections to cater to specific buyer preferences.
+- **Tiered Inventory:**
+  - **High-End Originals:** Premium, large-scale pieces for serious buyers.
+  - **Affordable Prints:** High-quality reproductions for budget-conscious art enthusiasts.
+
+**Pricing Strategy:**
+
+- **Original Paintings:** Base prices on size, medium, and complexity while remaining competitive.
+- **Bundled Discounts:** Offer discounts for multiple purchases or paired with mural commissions to encourage higher sales volumes.
+
+**Distribution Channels:**
+
+- **Local Galleries and Retail Spaces:** Partner with venues to display and sell paintings.
+- **Online Shop:** Establish an e-commerce platform for prints and smaller works to reach a broader audience.
 
 ---
 
-### **Project Directory Structure**
+### **Pricing Strategy**
 
-Organize your project to match this structure:
+Determining pricing for Jason’s work under the "EPHRAIM" brand balances affordability with fair compensation for time, materials, and expertise. Below is a detailed pricing guide based on industry norms, local market considerations, and the type of work offered.
 
-```
-ephraim-designs/
-├── docs/
-│   ├── index.md
-│   ├── about.md
-│   ├── portfolio/
-│   │   ├── murals.md
-│   │   └── paintings.md
-│   ├── services.md
-│   ├── testimonials.md
-│   └── contact.md
-├── images/
-│   ├── logo.png
-│   ├── favicon.ico
-│   └── banner.jpg
-├── stylesheets/
-│   └── extra.css
-└── mkdocs.yml
-```
+#### **1. Murals**
+
+**General Pricing Guidelines:**
+
+- **Base Rate Per Square Foot:** $10–$50/sq. ft.
+  - **Simpler Designs:** $10–$20/sq. ft.
+  - **Detailed Designs:** $25–$50/sq. ft.
+
+**Examples:**
+
+- **Small Interior Mural (100 sq. ft.):** $1,000–$2,500.
+- **Large Exterior Mural (500 sq. ft.):** $5,000–$15,000.
+- **Nonprofit/Church Discount:** Offer a 20–30% discount for faith-based organizations or nonprofit groups, if feasible.
+
+#### **2. Canvas Paintings**
+
+**Pricing Guidelines by Size and Complexity:**
+
+- **Small (12” x 16” or smaller):** $150–$400.
+- **Medium (24” x 36”):** $500–$1,200.
+- **Large (36” x 48” or larger):** $1,500–$5,000.
+
+**Special Considerations:**
+
+- **Custom Pieces:** Add 20–30% to base price for commissions requiring unique designs or personal themes.
+- **Prints:** $25–$75 per print, depending on size and materials (e.g., paper vs. canvas).
+
+#### **3. Live Painting Events**
+
+**Event Packages:**
+
+- **Base Rate:** $500–$1,000 for a 2–4 hour live painting session.
+  - Includes setup, live demonstration, and a finished piece.
+- **Additional Services:**
+  - **Interactive Elements:** Charge an extra $100–$200 if attendees can collaborate or request elements.
+  - **Finished Artwork Sales:** Option to sell completed pieces post-event.
+
+#### **4. Workshops and Classes**
+
+**Rates Per Session:**
+
+- **Group Workshops (10–20 participants):** $200–$500/session.
+  - Includes materials (canvas, paint) or charges participants a small materials fee (~$10–$20 per person).
+- **One-on-One Instruction:** $50–$100/hour.
+
+#### **5. Faith-Based Merchandise**
+
+**Suggested Pricing:**
+
+- **Prints (8” x 10” or smaller):** $20–$50.
+- **Greeting Cards or Postcards (Set of 10):** $15–$30.
+- **Ornaments (Hand-Painted):** $15–$40.
+- **T-Shirts or Apparel:** $25–$40.
+- **Custom Scripture Plaques (Small Wooden Signs):** $50–$150.
+
+#### **6. Collaborative and Community Projects**
+
+- **Nonprofit or Community Discounts:** Offer discounted rates (20–40%) for projects benefiting churches, schools, or nonprofits.
+- **Flat Rates for Community Murals:** $3,000–$8,000 for a medium-sized mural, depending on complexity.
+
+#### **Pricing Philosophy for "EPHRAIM"**
+
+1. **Transparency:** Be upfront about costs with itemized breakdowns for materials, labor, and design.
+2. **Flexibility:** Offer tiered pricing and flexible payment plans for larger projects to make art accessible without undervaluing the work.
+3. **Community Investment:** Consider sliding scale rates based on the organization's ability to pay and sponsorships partnering with local businesses to fund public art projects in exchange for small branding acknowledgments.
+
+#### **Practical Steps for Setting Rates**
+
+1. **Evaluate Time:** Estimate hours needed for each project, ensuring pricing reflects at least $30–$50/hour for labor.
+2. **Consider Material Costs:** Add the full cost of paints, canvases, tools, and travel into the pricing.
+3. **Local Research:** Check rates charged by other muralists or artists in Wooster or nearby towns to stay competitive.
+4. **Create a Rate Card:** Develop a simple pricing guide for murals, paintings, live events, and workshops that clients can easily understand.
+
+#### **Example Packages for Wooster Clients**
+
+- **Faith Community Mural Package:** $4,000 for a 300 sq. ft. mural (including a 20% discount).
+  - **Includes:** Initial consultation and design, full installation, up to two design revisions.
+- **Small Fair Booth Offer:** $300 booth fee + $200 inventory with potential revenue of $700–$1,000.
+- **Custom Canvas Painting for Local Family:** $750–$1,000 for a medium-sized, customized piece.
 
 ---
 
-### **Next Steps**
+### **Target Audiences:**
 
-1. **Finalize Content:**
+- **Local Businesses:** Cafes, restaurants, retail spaces seeking vibrant and unique wall art to enhance their ambiance.
+- **Municipal Organizations:** Entities funding public beautification projects aiming to foster community identity.
+- **Nonprofits and Schools:** Institutions looking for community-based mural art that reflects their values and mission.
+- **Real Estate Developers:** Developers interested in unique aesthetics for residential and commercial properties.
 
-   - Add content to each page in Markdown format.
-   - Use the suggested prompts to generate visuals with MidJourney or other tools.
+**Portfolio Development:**
 
-2. **Preview Locally:**
+- **Highlight Versatility:** Showcase abstract, narrative, and community-driven themes to appeal to a diverse client base.
+- **Showcase Process:** Document murals from concept sketches to completion with photos and videos, demonstrating professionalism and craftsmanship.
 
-   ```bash
-   mkdocs serve
-   ```
+**Marketing Murals:**
 
-   Access the site at `http://127.0.0.1:8000`.
-
-3. **Deploy to GitHub Pages:**
-
-   ```bash
-   mkdocs gh-deploy
-   ```
-
-4. **Test SEO and Responsiveness:**
-   - Validate SEO optimizations (meta tags, descriptions).
-   - Ensure mobile and desktop responsiveness.
-
-## ---
+- **Pitch Packages:** Develop templates outlining project details, pricing tiers, and design examples for prospective clients.
+- **Local Networking:** Attend city council meetings, business association events, and community gatherings to connect with decision-makers.
+- **Referrals and Testimonials:** Utilize satisfied clients to provide testimonials and referrals, enhancing credibility and trust.
 
 ## **Jason Rakich: Visionary Artist and Community Catalyst**
 
@@ -829,114 +789,80 @@ Jason Rakich’s journey is one of unwavering dedication to his craft, his faith
   - **LinkedIn:** [Jason Rakich](https://linkedin.com/in/dev3l)
   - **GitHub:** [dev3l](https://github.com/dev3l)
 
-# --- mkdocs.yml ---
+## **Core Elements for Ephraim Designs’ MidJourney Style**
 
-```
-# Site Configuration
-site_name: Ephraim Designs
-site_url: https://dev3l.github.io/ephraim-designs/
-site_description: "Transforming spaces with faith-centered art."
-site_author: "Ephraim Designs Team"
+1. **Subject Focus:**
 
-# Theme Configuration
-theme:
-  name: material
-  palette:
-    primary: "#002244" # Darker Blue for better contrast
-    accent: "#CC9900" # Darker Gold for better contrast
-    background: "#FFFFFF" # White background for maximum contrast
-  font:
-    text: "Open Sans, sans-serif" # Clean sans-serif for body text
-    code: "Roboto Mono, monospace" # Modern monospace for code blocks
-    headings: "Playfair Display, serif" # Elegant serif for headings
-  favicon: "images/favicon.png"
-  logo: "images/logo-dark.png"
+   - Art emphasizing faith, spirituality, and storytelling.
+   - Subjects like murals, abstract canvases, and community-centric art projects.
 
-# Navigation
-nav:
-  - Home: index.md
-  - About: about.md
-  - Portfolio: portfolio.md
-  - Services: services.md
-  - Community Engagement: community-engagement.md
-  - Pricing: pricing.md
-  - Events: events.md
-  - Blog: blog/index.md
-  - Testimonials: testimonials.md
-  - Contact: contact.md
+2. **Artistic Style:**
 
-# Extra CSS and JavaScript
-extra_css:
-  - stylesheets/extra.css
-extra_javascript:
-  - scripts/custom.js
+   - Inspired by **faithful storytelling**: Clean, emotional, and rich in symbolism.
+   - Use of **vibrant yet balanced color palettes**: Golds, blues, and natural tones.
+   - Mixing **traditional painting styles** with modern digital flourishes.
+   - Strong use of **light and shadows** for dramatic effect.
 
-# Markdown Extensions
-markdown_extensions:
-  - admonition
-  - codehilite:
-      guess_lang: false
-  - toc:
-      permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.inlinehilite
-  - footnotes
-  - meta
-  - md_in_html
+3. **Mood and Atmosphere:**
 
-# Plugins
-plugins:
-  - search
-  - macros
-  - ultralytics:
-      meta: true
-      twitter: true
-      open_graph: true
-      json_ld: true
-      sharing_buttons: true
-      faq_parsing: true
-  - minify_html
+   - Spiritual and uplifting: Evoking hope, grace, and redemption.
+   - Deeply personal and contemplative with a sense of unity and warmth.
 
-# Extra Variables
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/dev3l
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/dev3l
-  footer: |
-    <footer>
-      <p>Site built by Justin Beall from Dev3loper AI | AI-XP Engineer |
-      <a href="mailto:dev3loper.ai@gmail.com">dev3loper.ai@gmail.com</a> |
-      <a href="https://dev3loper.ai">https://dev3loper.ai</a></p>
-    </footer>
+4. **Lighting and Composition:**
 
-```
+   - Soft, divine light with golden-hour glow for faith-centered pieces.
+   - Grand, wide-angle perspectives for murals or public art.
+   - Intimate close-ups for canvas paintings or community-focused imagery.
 
-# --- directory structure ---
+5. **Specific Iconography:**
+   - Incorporation of crosses, doves, natural elements like flowing water, and abstract patterns reflecting growth and spirituality.
+   - Stylized human figures conveying emotions and unity.
+   - Scenes of people engaging in collaborative, joyful artistic creation.
 
-```
-├── LICENSE
-├── README.md
-├── about-ephraim-designs
-│   ├── Action Plan.md
-│   ├── Combined - Compressed.md
-│   ├── Ephraim Designs - Development Plan - 20241127.md
-│   ├── Ephraim Designs As A Product.md
-│   ├── Jason Rakich - 20241127.md
-│   └── The Plan.md
-├── ephraim-designs
-│   ├── docs
-│   │   ├── images
-│   │   │   ├── banner.png
-│   │   │   ├── favicon.png
-│   │   │   └── logo-dark.png
-│   │   ├── index.md
-│   │   └── stylesheets
-│   │   └── extra.css
-│   └── mkdocs.yml
-├── pyproject.toml
-├── ruff_defaults.toml
-└── setup.cfg
-```
+---
+
+### **Sample MidJourney Prompts for Ephraim Designs**
+
+#### **Logo or Branding Elements**
+
+- “A minimalist logo design featuring a circular motif with a stylized dove in flight, radiating golden light, surrounded by abstract brushstroke patterns in navy blue and amber. Modern and elegant, symbolizing faith and transformation, soft beige background, 1:1 aspect ratio.”
+
+#### **Murals**
+
+- “A large-scale mural on a church wall depicting a modern interpretation of the Parable of the Lost Sheep, with vibrant natural colors, soft divine light cascading over the scene, and intricate abstract patterns symbolizing grace and redemption. Dramatic yet uplifting, inspired by community storytelling.”
+
+#### **Canvas Painting**
+
+- “An abstract canvas painting representing faith and hope, featuring swirling patterns of indigo, gold, and white, with a radiant cross emerging from the center. A dynamic interplay of bold brushstrokes and delicate detail, evoking spiritual transcendence.”
+
+#### **Live Painting Event**
+
+- “A live art scene where an artist paints a mural during a bustling community festival, surrounded by onlookers of diverse backgrounds. The painting is vibrant and dynamic, symbolizing unity and hope, with golden sunlight illuminating the vibrant scene.”
+
+#### **Community Projects**
+
+- “A community mural-in-progress featuring local residents painting a collaborative piece that blends faith and nature, with abstract depictions of trees, rivers, and spiritual symbols. Warm tones of green and gold dominate, creating a hopeful, uplifting atmosphere.”
+
+#### **Merchandise Design**
+
+- “A modern art print design for a faith-centered brand, featuring a stylized cross surrounded by vibrant abstract floral patterns, with a balanced palette of deep blues, radiant golds, and soft beige. Minimalist yet evocative, designed for posters and home décor.”
+
+#### **Website Hero Image**
+
+- “A captivating digital banner showcasing a blend of faith-based art elements: a golden-hour mural of angels in flight on a modern city wall, with abstract brushstrokes overlaying the design. The composition includes soft lighting, radiant golden hues, and dynamic movement.”
+
+---
+
+### **Keywords for MidJourney Prompts**
+
+- Faith-centered
+- Uplifting
+- Spiritual storytelling
+- Abstract patterns
+- Golden light
+- Vibrant murals
+- Community collaboration
+- Symbolic iconography
+- Hope and grace
+
+---

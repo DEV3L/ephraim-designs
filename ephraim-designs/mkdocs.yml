@@ -13,8 +13,6 @@ theme:
   font:
     text: "Open Sans" # Readable sans-serif font for body
     code: "Roboto Mono" # Monospace font for code blocks
-  features:
-    - footer
   favicon: "images/favicon.png"
   logo: "images/logo-dark.png"
 
@@ -27,13 +25,13 @@ nav:
       - Paintings: portfolio/paintings.md
       - Live Art: portfolio/live-art.md
   - Services: services.md
-  - Community Engagement: community-engagement.md
-  - Pricing: pricing.md
-  - Events: events.md
-  - Blog:
-      - Blog Home: blog/index.md
-  - Testimonials: testimonials.md
-  - Contact: contact.md
+  # - Community Engagement: community-engagement.md
+  # - Pricing: pricing.md
+  # - Events: events.md
+  # - Blog:
+  #     - Blog Home: blog/index.md
+  # - Testimonials: testimonials.md
+  # - Contact: contact.md
 
 # Plugins
 plugins:
@@ -66,6 +64,3 @@ extra_css:
 
 extra_javascript:
   - overrides/footer.js
-
-extra:
-  generator: false
