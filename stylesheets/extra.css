@@ -46,3 +46,7 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+footer.md-footer {
+  display: none;
+}
