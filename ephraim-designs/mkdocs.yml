@@ -46,8 +46,6 @@ plugins:
       add_desc: true
       add_image: true
       add_keywords: true
-      add_share_buttons: true
-      add_authors: true
       add_json_ld: true
       add_css: true
   - minify_html
@@ -66,7 +64,8 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - overrides/footer.js
+
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/dev3l
+  generator: false
