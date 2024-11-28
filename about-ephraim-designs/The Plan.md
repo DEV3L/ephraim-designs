@@ -1,6 +1,4 @@
-I'm glad you found the initial configuration helpful! Let's refine the **MkDocs** setup to closely align with the design elements of Jason Rakich's business card for **EPHRAIM DESIGNS**. We'll incorporate the specified fonts, colors, and overall design philosophy to create a cohesive and professional online presence.
-
-### **Refined Branding Overview**
+### **Branding Overview**
 
 #### **Fonts:**
 
@@ -24,19 +22,20 @@ I'm glad you found the initial configuration helpful! Let's refine the **MkDocs*
 
    - **HEX:** `#003366`
 
-2. **Accent Color (Beige/Gold):**
+2. **Accent Color (Gold):**
 
    - **HEX:** `#FFD700`
 
 3. **Background Color (Soft Beige):**
    - **HEX:** `#F5F5DC`
 
+---
+
 ### **Updated `mkdocs.yml` Configuration**
 
-Here's a refined `mkdocs.yml` that incorporates the specified fonts and colors:
+Here’s the most updated and refined version of the `mkdocs.yml` file:
 
-```
-
+```yaml
 site_name: Ephraim Designs
 site_url: https://dev3l.github.io/ephraim-designs/
 site_description: "Transforming spaces with faith-centered art."
@@ -45,25 +44,14 @@ theme:
   name: material
   palette:
     primary: "#003366" # Dark Blue/Navy
-    accent: "#FFD700" # Beige/Gold
+    accent: "#FFD700" # Gold
     background: "#F5F5DC" # Soft Beige
   font:
     text: "Open Sans, sans-serif" # Clean sans-serif for body text
     code: "Roboto Mono, monospace" # Modern monospace for code blocks
     headings: "Playfair Display, serif" # Elegant serif for headings
-  fonts:
-    text:
-      family: "Open Sans"
-      variants: ["300", "400", "600"]
-    heading:
-      family: "Playfair Display"
-      variants: ["400", "700"]
-    monospace:
-      family: "Roboto Mono"
-      variants: ["400"]
   favicon: "images/favicon.png"
   logo: "images/logo.png"
-
 
 nav:
   - Home: index.md
@@ -72,6 +60,7 @@ nav:
       - Murals: portfolio/murals.md
       - Paintings: portfolio/paintings.md
   - Services: services.md
+  - Testimonials: testimonials.md
   - Contact: contact.md
 
 extra_css:
@@ -86,19 +75,29 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.inlinehilite
 
-
+plugins:
+  - search
+  - macros
+  - ultralytics
+  - minify_html
 ```
+
+---
 
 ### **Custom CSS for Enhanced Branding**
 
-To further align with the business card's design elements, including intricate decorative patterns and ensuring typography matches, you can add custom CSS. Create a file named `extra.css` in the `stylesheets/` directory with the following content:
-
-**`stylesheets/extra.css`**
+Add the following to `stylesheets/extra.css` for additional styling:
 
 ```css
-/* Override primary color for links */
+/* General link styling */
 a {
   color: #003366; /* Dark Blue/Navy */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ffd700; /* Gold */
 }
 
 /* Style headings with Playfair Display */
@@ -112,11 +111,11 @@ h6 {
   color: #003366; /* Dark Blue/Navy */
 }
 
-/* Italicize the tagline if used in specific places */
+/* Italicize the tagline */
 .tagline {
   font-family: "Playfair Display", serif;
   font-style: italic;
-  color: #ffd700; /* Beige/Gold */
+  color: #ffd700; /* Gold */
 }
 
 /* Code block styling */
@@ -124,6 +123,7 @@ code,
 pre {
   background-color: #f5f5dc; /* Soft Beige */
   border-radius: 4px;
+  padding: 5px;
 }
 
 /* Footer styling */
@@ -131,106 +131,76 @@ footer {
   text-align: center;
   padding: 20px 0;
   font-size: 0.9em;
-  color: #777777;
+  color: #003366;
   background-color: #f5f5dc; /* Soft Beige */
 }
-
-/* Remove unnecessary margins for a cleaner look */
-body {
-  margin: 0;
-  padding: 0;
-}
-
-/* Decorative patterns on specific sections (optional) */
-.decorative-pattern {
-  background-image: url("../images/decorative-pattern.png"); /* Path to your pattern image */
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
 ```
 
-### **Implementing the Custom CSS**
+---
 
-1. **Fonts:**
+### **Image Descriptions and Suggestions**
 
-   - Ensure the fonts are included by adding them to the HTML head. The `mkdocs-material` theme automatically includes Google Fonts specified in the `font` section. Make sure the specified fonts are available via Google Fonts.
+If you don't have images ready, here are suggestions based on MidJourney prompts:
 
-2. **Images:**
+#### **Logo**
 
-   - Place your logo (`logo.png`) and favicon (`favicon.ico`) in the `images/` directory.
+- **Description:** A circular logo with concentric spirals symbolizing faith and creativity, dark blue (#003366) and gold (#FFD700) as primary colors. Elegant serif typography (Playfair Display). Background soft beige (#F5F5DC). Ratio: 1:1.
+- **Prompt:** "A modern circular logo with elegant concentric spirals, in dark blue and gold, featuring a serif typography, minimalistic and professional, soft beige background, 1:1 aspect ratio."
 
-3. **Decorative Elements:**
-   - If you have specific decorative patterns from the business card, add them as background images in the custom CSS (e.g., `.decorative-pattern`).
+#### **Homepage Banner**
 
-### **Example HTML Usage for Tagline**
+- **Description:** A large banner showcasing a mural blending faith-based symbols, community storytelling, and nature elements. Vibrant colors complementing dark blue and gold tones. Ratio: 16:9.
+- **Prompt:** "A captivating mural combining faith-based imagery, nature themes, and abstract storytelling, in bold colors with dark blue and gold accents, 16:9 aspect ratio."
 
-To apply the tagline styling, you can add a custom class in your markdown files:
+---
 
-**Example in `index.md`:**
+### **Project Directory Structure**
 
-```markdown
-# Welcome to Ephraim Designs
+Organize your project to match this structure:
 
-<div class="tagline">"Faith in Every Stroke"</div>
-
-Welcome to EPHRAIM DESIGNS, where faith meets artistry...
+```
+ephraim-designs/
+├── docs/
+│   ├── index.md
+│   ├── about.md
+│   ├── portfolio/
+│   │   ├── murals.md
+│   │   └── paintings.md
+│   ├── services.md
+│   ├── testimonials.md
+│   └── contact.md
+├── images/
+│   ├── logo.png
+│   ├── favicon.ico
+│   └── banner.jpg
+├── stylesheets/
+│   └── extra.css
+└── mkdocs.yml
 ```
 
-### **Final Steps**
+---
 
-1. **Install the Required Fonts:**
+### **Next Steps**
 
-   Ensure the fonts are available via Google Fonts. The `mkdocs-material` theme automatically includes Google Fonts specified in the `font` section. If you are using custom fonts or need to add specific weights, make sure to adjust accordingly.
+1. **Finalize Content:**
 
-2. **Organize Your Project Structure:**
+   - Add content to each page in Markdown format.
+   - Use the suggested prompts to generate visuals with MidJourney or other tools.
 
-   Ensure your project structure aligns with the `mkdocs.yml` paths:
-
-   ```
-   ephraim-designs/
-   ├── docs/
-   │   ├── index.md
-   │   ├── about.md
-   │   ├── portfolio/
-   │   │   ├── murals.md
-   │   │   └── paintings.md
-   │   ├── services.md
-   │   └── contact.md
-   ├── images/
-   │   ├── logo.png
-   │   └── favicon.ico
-   ├── stylesheets/
-   │   └── extra.css
-   └── mkdocs.yml
-   ```
-
-3. **Running the Site Locally:**
+2. **Preview Locally:**
 
    ```bash
    mkdocs serve
    ```
 
-   Open your browser and navigate to `http://127.0.0.1:8000/` to see your site in action.
+   Access the site at `http://127.0.0.1:8000`.
 
-4. **Deploying the Site:**
+3. **Deploy to GitHub Pages:**
 
-   - **GitHub Pages:**
-     ```bash
-     mkdocs gh-deploy
-     ```
-   - **Other Hosting Services:**
-     - Follow the [MkDocs deployment guide](https://www.mkdocs.org/user-guide/deploying-your-docs/) for various platforms.
+   ```bash
+   mkdocs gh-deploy
+   ```
 
-### **Additional Recommendations**
-
-- **Consistency:** Ensure that all elements across the website maintain the same color scheme and font usage as outlined.
-- **Minimalistic Design:** Keep the layout clean and uncluttered. Use whitespace effectively to enhance readability and focus on the artwork.
-- **High-Quality Images:** Use high-resolution images for your portfolio to showcase Jason’s work effectively.
-- **Accessibility:** Make sure that the color contrasts meet accessibility standards and that the site is navigable via keyboard for inclusivity.
-
-### **Summary**
-
-This refined `mkdocs.yml` configuration, combined with the custom CSS, aligns your MkDocs site with Jason Rakich’s business card design, reflecting the brand's professional and artistic identity. By using the specified fonts and color palette, and incorporating minimalistic yet elegant design elements, the website will effectively communicate the essence of **EPHRAIM DESIGNS**.
-
-Feel free to reach out if you need further customization or assistance with specific elements of the site!
+4. **Test SEO and Responsiveness:**
+   - Validate SEO optimizations (meta tags, descriptions).
+   - Ensure mobile and desktop responsiveness.

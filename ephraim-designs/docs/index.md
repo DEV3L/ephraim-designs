@@ -1,105 +1,82 @@
 ---
-title: Welcome to Ephraim Designs
-description: Transforming spaces with faith-centered art.
+title: "Welcome to Ephraim Designs"
+description: "Transforming spaces with faith-centered art. Discover custom murals, canvas paintings, live art, and community projects by Jason Rakich in Wooster, Ohio."
+keywords:
+  - faith-centered art
+  - custom murals
+  - canvas paintings
+  - live art events
+  - community art projects
+  - Jason Rakich
+  - Ephraim Designs
+image: "images/banner.png"
+author: "Jason Rakich"
+date: "2024-11-27"
 ---
 
 # Welcome to Ephraim Designs
 
-<img src="images/logo-dark.png" alt="Ephraim Designs Logo" style="display: block; margin: auto; width: 150px;" />
+<img src="images/home/ephraim-logo.png" alt="Ephraim Designs Logo" style="display: block; margin: auto; width: 200px;">
 
-At **Ephraim Designs**, we specialize in creating transformative, faith-centered art that inspires and elevates the spaces around you. Led by Jason E. Rakich, our work encompasses murals, canvas paintings, live events, and more, blending creativity with a deep sense of community and spirituality.
+At **Ephraim Designs**, we specialize in creating transformative, faith-centered art that inspires and elevates the spaces around you. Led by **Jason E. Rakich**, our work blends artistry with a deep sense of community and spirituality. Explore our murals, canvas paintings, live events, and more as we bring your vision to life.
 
 ---
 
 ## About Us
 
-<img src="images/placeholder-about.jpg" alt="About Us" style="display: block; margin: auto; width: 80%;" />
+<img src="images/home/about-us.png" alt="About Ephraim Designs" style="display: block; margin: auto; width: 80%; max-width: 600px;">
 
-Ephraim Designs is a Wooster, Ohio-based artistic brand dedicated to storytelling through art. With over two decades of experience, Jason E. Rakich brings unparalleled creativity, versatility, and passion to every project.
-
-- **Mission:** To glorify faith, inspire connection, and bring meaning to every space.
-- **Vision:** To become a cornerstone of artistic faith expression in local and global communities.
-
-Learn more about our journey on the [About Us](about.md) page.
+We are passionate about connecting with people through art. Every brushstroke tells a story, and every project embarks on a journey toward meaningful expression. From custom murals to engaging live art events, **Ephraim Designs** delivers creative experiences that celebrate faith, creativity, and community.
 
 ---
 
 ## Portfolio Highlights
 
-<img src="images/placeholder-portfolio.jpg" alt="Portfolio Highlights" style="display: block; margin: auto; width: 80%;" />
+<img src="images/home/portfolio-highlights.png" alt="Portfolio Highlights" style="display: block; margin: auto; width: 80%; max-width: 600px;">
 
-Our work ranges from large-scale murals to intimate canvas paintings, each piece designed to tell a unique story.
+Discover the diversity and depth of our creations:
 
-### Featured Projects:
+- 🎨 **Murals**: Transforming walls into living stories for homes, businesses, and public spaces.
+- 🖼️ **Canvas Paintings**: Tailored artwork that reflects your style and values.
+- 🎭 **Live Art Events**: Witness creativity unfold in real time at public and private gatherings.
+- 🤝 **Community Projects**: Strengthening bonds through collaborative and inspiring art.
 
-- 180 Pathway Mural
-- Gold Star Lofts Public Art
-- Christan Harbor Church Collaboration
-
-Explore our full [Portfolio](portfolio.md) for more inspiring projects.
+Visit our [Portfolio](portfolio/murals.md) to explore more of our work.
 
 ---
 
 ## Services We Offer
 
-<img src="images/placeholder-services.jpg" alt="Services We Offer" style="display: block; margin: auto; width: 80%;" />
+<img src="images/home/services.png" alt="Our Services" style="display: block; margin: auto; width: 80%; max-width: 600px;">
 
-From faith-centered murals to live painting events, we offer a wide array of services to meet your artistic needs.
+Our range of services is designed to bring your artistic vision to life:
 
-- **Custom Murals:** Tailored for businesses, churches, and homes.
-- **Canvas Paintings:** Original and custom pieces to enhance any space.
-- **Live Painting Events:** Interactive art demonstrations for a dynamic experience.
-- **Workshops and Classes:** Teaching techniques to foster creativity in the community.
+- **Custom Murals**: Unique designs tailored to homes, businesses, and places of worship.
+- **Canvas Paintings**: From abstract explorations to narrative masterpieces, crafted just for you.
+- **Live Painting Events**: Interactive and immersive art experiences that captivate audiences.
+- **Workshops & Classes**: Unlock your creativity with hands-on artistic guidance.
 
-See all our offerings on the [Services](services.md) page.
+Learn more on our [Services](services.md) page.
 
 ---
 
 ## Community Engagement
 
-<img src="images/placeholder-community.jpg" alt="Community Engagement" style="display: block; margin: auto; width: 80%;" />
+<img src="images/home/community-engagement.png" alt="Community Engagement" style="display: block; margin: auto; width: 80%; max-width: 600px;">
 
-At Ephraim Designs, we believe in the power of art to bring people together. From partnerships with local businesses to participating in community festivals, we are committed to making a positive impact.
+Art has the power to connect and inspire. At **Ephraim Designs**, we actively participate in our local community through:
 
-Discover how we engage with our community on the [Community Engagement](community-engagement.md) page.
+- **Collaborative Projects**: Creating meaningful art alongside neighbors and friends.
+- **Festivals & Events**: Bringing vibrant live art to life at public gatherings.
+- **Mentorship**: Nurturing the next generation of artists through teaching and encouragement.
 
----
-
-## Testimonials
-
-<img src="images/placeholder-testimonials.jpg" alt="Testimonials" style="display: block; margin: auto; width: 80%;" />
-
-Hear what our clients have to say about our work:
-
-> “Jason’s artwork transformed our space into something truly special. His attention to detail and passion for storytelling are unmatched.”  
-> — _Client Name_
-
-Read more feedback on our [Testimonials](testimonials.md) page.
+Read about our efforts in [Community Engagement](community-engagement.md).
 
 ---
 
 ## Get In Touch
 
-<img src="images/placeholder-contact.jpg" alt="Get In Touch" style="display: block; margin: auto; width: 80%;" />
+We’d love to hear from you! Reach out to discuss your next project, commission a piece, or simply connect with us:
 
-We'd love to hear from you! Whether you're looking for custom artwork or have questions about our services, we're here to help.
-
-- **Phone:** [330-347-8698](tel:330-347-8698)
-- **Email:** [Jasonrakich@outlook.com](mailto:Jasonrakich@outlook.com)
-
-Visit our [Contact](contact.md) page to reach out or follow us on [GitHub](https://github.com/dev3l) and [LinkedIn](https://linkedin.com/in/dev3l).
-
----
-
-## Follow Us
-
-Stay updated with our latest projects and community engagements:
-
-- [GitHub](https://github.com/dev3l)
-- [LinkedIn](https://linkedin.com/in/dev3l)
-
----
-
-<p style="text-align: center; font-size: smaller;">
-  This site was crafted with ❤️ by <a href="https://dev3loper.ai">Dev3loper AI</a>. All rights reserved.
-</p>
+- **Email:** [JasonRakich@outlook.com](mailto:JasonRakich@outlook.com)
+- **Phone:** 330-347-8698 | 330-465-2417

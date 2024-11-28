@@ -1,3 +1,52 @@
+# ABOUT EPHRAIM DESIGNS AND JASON RAKICH THE ARTIST
+
+**EPHRAIM DESIGNS: Elevating Faith Through Art in Wooster, Ohio**
+
+**EPHRAIM DESIGNS**, led by the talented artist **Jason E. Rakich**, is dedicated to transforming spaces and inspiring communities through faith-centered art. Rooted in storytelling, spiritual conviction, and exceptional craftsmanship, EPHRAIM DESIGNS specializes in creating vibrant murals and evocative canvas paintings that reflect themes of grace, redemption, and community identity.
+
+**Mission and Vision**
+EPHRAIM DESIGNS aims to glorify faith and inspire connection by producing transformative art for homes, churches, businesses, and public spaces. The vision is to become a cornerstone of artistic faith expression in Wooster, fostering hope and beauty through every piece.
+
+**Core Offerings**
+
+1. **Murals and Public Art**: Large-scale, faith-inspired murals that enhance the aesthetic and cultural value of various environments, targeting churches, community centers, businesses, and schools.
+2. **Canvas Paintings**: A diverse range of original and print artworks that cater to individual collectors and interior designers, available through local galleries and an online store.
+3. **Live and Collaborative Art**: Interactive live painting sessions at events and workshops that engage audiences and encourage community participation.
+4. **Faith-Based Merchandise**: Accessible products like prints, apparel, and home décor that extend the reach of EPHRAIM DESIGNS’ signature art.
+
+**Strategic Approach**
+EPHRAIM DESIGNS focuses on expanding mural opportunities by showcasing versatility and professionalism, engaging with local businesses and faith communities, and leveraging testimonials to build credibility. Paintings are organized into thematic collections to appeal to diverse tastes, supported by a tiered pricing strategy that balances affordability with fair compensation.
+
+**Event Readiness and Marketing**
+Prepared for participation in local fairs, farmers’ markets, and art festivals, EPHRAIM DESIGNS employs a portable and professional booth setup to display and sell artwork. Comprehensive marketing efforts include social media integration, community partnerships, and an online sales platform to maximize visibility and sales opportunities.
+
+**Community Engagement**
+Jason actively collaborates with local art institutions like the Wayne Center for the Arts, participates in community events such as Window Wonderland and the Wooster Farmers’ Market, and partners with local businesses to create murals that reflect community values. Workshops and classes are offered to inspire and mentor emerging artists, fostering a vibrant local art scene.
+
+**Pricing and Market Opportunities**
+EPHRAIM DESIGNS adopts a transparent and flexible pricing model, offering competitive rates for murals and paintings while providing discounts for faith-based and nonprofit organizations. The growing demand for public art and faith-based artworks presents significant opportunities for expansion, supported by the increasing popularity of live painting events and online art sales.
+
+**Achievements and Growth**
+With over eight major mural projects and more than 100 canvas paintings, Jason has established a strong reputation for emotional storytelling and technical excellence. His work has been featured in multiple exhibitions at the Wayne Center for the Arts and the Wooster Community Hospital Pavilion, demonstrating his impact and versatility.
+
+**Future Goals**
+EPHRAIM DESIGNS aims to further expand its artistic portfolio by exploring new mediums like tattoo artistry and unconventional canvases, enhancing its online presence, and increasing participation in larger-scale community projects. By continuously engaging with the community and adapting to market trends, EPHRAIM DESIGNS is poised for sustainable growth and greater recognition.
+
+**Next Steps**
+
+1. **Enhance Portfolio**: Focus on showcasing versatility and professional documentation of projects.
+2. **Local Networking**: Build stronger relationships with businesses, churches, and community organizations.
+3. **Event Preparation**: Develop a professional booth setup and curate a diverse inventory for events.
+4. **Marketing Campaigns**: Launch targeted social media and event-based promotions to drive engagement.
+5. **Monitor Success**: Track sales, engagement, and community feedback to refine strategies and ensure ongoing success.
+
+**Conclusion**
+EPHRAIM DESIGNS embodies Jason E. Rakich’s passion for faith, creativity, and community. By delivering high-quality, meaningful art and actively engaging with the Wooster community, EPHRAIM DESIGNS is set to become a beloved and influential artistic presence, inspiring hearts and transforming spaces with every brushstroke.
+
+For more information or to collaborate, please contact Jason Rakich at [Jasonrakich@outlook.com](mailto:Jasonrakich@outlook.com) or call 330-347-8798.
+
+---
+
 ## **EPHRAIM DESIGNS: Comprehensive Brand and Business Overview**
 
 ### **1. Executive Summary**
@@ -506,3 +555,388 @@ Continuous portfolio expansion, exploring new mediums, and adapting to market tr
 ---
 
 For further information or to discuss opportunities, please contact Jason Rakich at [Jasonrakich@outlook.com](mailto:Jasonrakich@outlook.com) or call 330-347-8798.
+
+## ---
+
+### **Branding Overview**
+
+#### **Fonts:**
+
+1. **Primary Font (Logo):**
+
+   - **Font:** _Playfair Display_
+   - **Style:** Bold, serif, elegant.
+
+2. **Supporting Fonts (Body and Contact Details):**
+
+   - **Font:** _Open Sans_
+   - **Style:** Clean, sans-serif, modern, and highly readable.
+
+3. **Tagline Font:**
+   - **Font:** _Playfair Display Italic_
+   - **Style:** Italicized serif, adding personality and emphasis.
+
+#### **Colors:**
+
+1. **Primary Color (Dark Blue/Navy):**
+
+   - **HEX:** `#003366`
+
+2. **Accent Color (Gold):**
+
+   - **HEX:** `#FFD700`
+
+3. **Background Color (Soft Beige):**
+   - **HEX:** `#F5F5DC`
+
+---
+
+### **Updated `mkdocs.yml` Configuration**
+
+Here’s the most updated and refined version of the `mkdocs.yml` file:
+
+```yaml
+site_name: Ephraim Designs
+site_url: https://dev3l.github.io/ephraim-designs/
+site_description: "Transforming spaces with faith-centered art."
+
+theme:
+  name: material
+  palette:
+    primary: "#003366" # Dark Blue/Navy
+    accent: "#FFD700" # Gold
+    background: "#F5F5DC" # Soft Beige
+  font:
+    text: "Open Sans, sans-serif" # Clean sans-serif for body text
+    code: "Roboto Mono, monospace" # Modern monospace for code blocks
+    headings: "Playfair Display, serif" # Elegant serif for headings
+  favicon: "images/favicon.png"
+  logo: "images/logo.png"
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Portfolio:
+      - Murals: portfolio/murals.md
+      - Paintings: portfolio/paintings.md
+  - Services: services.md
+  - Testimonials: testimonials.md
+  - Contact: contact.md
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+
+plugins:
+  - search
+  - macros
+  - ultralytics
+  - minify_html
+```
+
+---
+
+### **Custom CSS for Enhanced Branding**
+
+Add the following to `stylesheets/extra.css` for additional styling:
+
+```css
+/* General link styling */
+a {
+  color: #003366; /* Dark Blue/Navy */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ffd700; /* Gold */
+}
+
+/* Style headings with Playfair Display */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+  color: #003366; /* Dark Blue/Navy */
+}
+
+/* Italicize the tagline */
+.tagline {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  color: #ffd700; /* Gold */
+}
+
+/* Code block styling */
+code,
+pre {
+  background-color: #f5f5dc; /* Soft Beige */
+  border-radius: 4px;
+  padding: 5px;
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 0.9em;
+  color: #003366;
+  background-color: #f5f5dc; /* Soft Beige */
+}
+```
+
+---
+
+### **Image Descriptions and Suggestions**
+
+If you don't have images ready, here are suggestions based on MidJourney prompts:
+
+#### **Logo**
+
+- **Description:** A circular logo with concentric spirals symbolizing faith and creativity, dark blue (#003366) and gold (#FFD700) as primary colors. Elegant serif typography (Playfair Display). Background soft beige (#F5F5DC). Ratio: 1:1.
+- **Prompt:** "A modern circular logo with elegant concentric spirals, in dark blue and gold, featuring a serif typography, minimalistic and professional, soft beige background, 1:1 aspect ratio."
+
+#### **Homepage Banner**
+
+- **Description:** A large banner showcasing a mural blending faith-based symbols, community storytelling, and nature elements. Vibrant colors complementing dark blue and gold tones. Ratio: 16:9.
+- **Prompt:** "A captivating mural combining faith-based imagery, nature themes, and abstract storytelling, in bold colors with dark blue and gold accents, 16:9 aspect ratio."
+
+---
+
+### **Project Directory Structure**
+
+Organize your project to match this structure:
+
+```
+ephraim-designs/
+├── docs/
+│   ├── index.md
+│   ├── about.md
+│   ├── portfolio/
+│   │   ├── murals.md
+│   │   └── paintings.md
+│   ├── services.md
+│   ├── testimonials.md
+│   └── contact.md
+├── images/
+│   ├── logo.png
+│   ├── favicon.ico
+│   └── banner.jpg
+├── stylesheets/
+│   └── extra.css
+└── mkdocs.yml
+```
+
+---
+
+### **Next Steps**
+
+1. **Finalize Content:**
+
+   - Add content to each page in Markdown format.
+   - Use the suggested prompts to generate visuals with MidJourney or other tools.
+
+2. **Preview Locally:**
+
+   ```bash
+   mkdocs serve
+   ```
+
+   Access the site at `http://127.0.0.1:8000`.
+
+3. **Deploy to GitHub Pages:**
+
+   ```bash
+   mkdocs gh-deploy
+   ```
+
+4. **Test SEO and Responsiveness:**
+   - Validate SEO optimizations (meta tags, descriptions).
+   - Ensure mobile and desktop responsiveness.
+
+## ---
+
+## **Jason Rakich: Visionary Artist and Community Catalyst**
+
+### **A Journey of Faith, Creativity, and Community**
+
+Jason Rakich stands as a beacon of artistic excellence and community engagement in Wooster, Ohio. With over two decades of dedicated experience, Jason has seamlessly blended his profound faith with his creative prowess, establishing himself as a versatile visual and musical artist. His formal training from the prestigious Art Institute of Pittsburgh laid the foundation for a dynamic career characterized by impactful murals, evocative canvas paintings, and vibrant musical performances.
+
+### **Artistic Excellence and Diverse Mediums**
+
+Jason’s artistry transcends traditional boundaries, encompassing a wide array of mediums and styles that reflect his multifaceted talents and deep-seated passion for storytelling. His expertise in oil paints, acrylics, pastels, and mixed media allows him to craft pieces that are both technically proficient and emotionally resonant. From the intricate details of his large-scale murals to the expressive abstraction of his canvas works, Jason’s art captures the essence of his themes—grace, redemption, and the beauty of the human spirit.
+
+### **Transformative Murals: Bringing Spaces to Life**
+
+Jason has completed over seven major murals, each a testament to his ability to transform spaces into immersive visual narratives. Notable projects include:
+
+- **Flamingo Jack’s Food Truck Mural:** A vibrant and dynamic design that enhances the food truck’s appeal, blending playful imagery with community-centric themes.
+- **180 Pathway Building Mural:** A multi-phase, community-focused piece that showcases intricate storytelling and public engagement.
+- **Gold Star Lofts Mural:** A high-profile commission demonstrating Jason’s capacity to cater to elite clients with bespoke large-scale works.
+- **Christan Harbor Church Mural:** A collaborative effort with fellow artist Jerry Smith, reflecting faith and community values.
+- **Obie One Kanibbie Mural:** A humorous and personalized mural featuring a Jedi-inspired cat, showcasing Jason’s playful creativity.
+
+Each mural not only beautifies its environment but also fosters a sense of community identity and pride, embodying Jason’s commitment to using art as a tool for social advocacy and connection.
+
+### **Canvas Paintings: Emotional Depth and Narrative Storytelling**
+
+Jason’s canvas paintings are a blend of abstract explorations and narrative-driven pieces that delve into societal themes and personal reflections. Works like _"A Taste of Things to Come"_ and _"Solar Skyline"_ are celebrated for their emotional depth and intricate detail. His ability to convey complex emotions through bold colors and dynamic compositions makes his paintings both visually striking and thought-provoking.
+
+### **Musical Fusion: Integrating Sound and Vision**
+
+Beyond the canvas, Jason is a passionate musician, seamlessly integrating his love for music into his visual artistry. As a guitarist and vocalist, he has performed in local bands, infusing his art with the raw energy and emotional intensity of metal and rock genres. This fusion of auditory and visual storytelling creates immersive experiences that engage audiences on multiple sensory levels, enhancing the emotional impact of his work.
+
+### **Community Engagement and Mentorship**
+
+Jason’s dedication to community extends beyond his art. He actively participates in local festivals, art fairs, and collaborative projects, fostering a vibrant and inclusive artistic community in Wooster. His mentorship of emerging artists and his willingness to share techniques and insights reflect his commitment to nurturing creativity and supporting the next generation of artists.
+
+### **Social Advocacy and Storytelling**
+
+Central to Jason’s work is his commitment to social advocacy. His art addresses pressing societal issues such as homelessness, mental health awareness, and environmental sustainability, using powerful visual narratives to inspire dialogue and drive positive change. By embedding meaningful stories and symbols into his art, Jason not only beautifies spaces but also provokes thoughtful reflection and community action.
+
+### **Innovative and Experimental Approach**
+
+Jason is continually pushing the boundaries of his artistry, exploring new mediums and techniques to keep his work fresh and relevant. His experiments with tattoo artistry, painting on unconventional surfaces like furniture and cars, and integrating comic book-inspired styles demonstrate his innovative spirit and desire to evolve as an artist. This adaptability ensures that Jason remains at the forefront of the artistic landscape, ready to embrace new challenges and opportunities.
+
+### **Vision for the Future**
+
+Looking ahead, Jason aspires to expand his artistic reach through larger-scale projects and broader community collaborations. His vision includes establishing EPHRAIM DESIGNS as a cornerstone of faith-centered art, transforming homes, businesses, and worship spaces into reflections of hope, grace, and storytelling. By continuing to blend technical excellence with heartfelt narratives, Jason aims to inspire and uplift communities, fostering connections that transcend the visual and touch the soul.
+
+### **Conclusion: A Legacy of Inspiration and Impact**
+
+Jason Rakich’s journey is one of unwavering dedication to his craft, his faith, and his community. Through his transformative murals, evocative paintings, and harmonious musical endeavors, Jason creates art that not only captivates the eye but also resonates deeply with the heart. His ability to blend creativity with social advocacy positions him as a visionary artist and a catalyst for positive change, leaving a lasting legacy of inspiration and impact in Wooster, Ohio, and beyond.
+
+---
+
+**Contact Jason Rakich:**
+
+- **Email:** [Jasonrakich@outlook.com](mailto:Jasonrakich@outlook.com)
+- **Phone:** 330-347-8698 | 330-465-2417
+- **Follow on Social Media:**
+  - **Instagram:** [@ephraimdesigns](https://instagram.com/ephraimdesigns)
+  - **Facebook:** [Ephraim Designs](https://facebook.com/ephraimdesigns)
+  - **LinkedIn:** [Jason Rakich](https://linkedin.com/in/dev3l)
+  - **GitHub:** [dev3l](https://github.com/dev3l)
+
+# --- mkdocs.yml ---
+
+```
+# Site Configuration
+site_name: Ephraim Designs
+site_url: https://dev3l.github.io/ephraim-designs/
+site_description: "Transforming spaces with faith-centered art."
+site_author: "Ephraim Designs Team"
+
+# Theme Configuration
+theme:
+  name: material
+  palette:
+    primary: "#002244" # Darker Blue for better contrast
+    accent: "#CC9900" # Darker Gold for better contrast
+    background: "#FFFFFF" # White background for maximum contrast
+  font:
+    text: "Open Sans, sans-serif" # Clean sans-serif for body text
+    code: "Roboto Mono, monospace" # Modern monospace for code blocks
+    headings: "Playfair Display, serif" # Elegant serif for headings
+  favicon: "images/favicon.png"
+  logo: "images/logo-dark.png"
+
+# Navigation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Portfolio: portfolio.md
+  - Services: services.md
+  - Community Engagement: community-engagement.md
+  - Pricing: pricing.md
+  - Events: events.md
+  - Blog: blog/index.md
+  - Testimonials: testimonials.md
+  - Contact: contact.md
+
+# Extra CSS and JavaScript
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - scripts/custom.js
+
+# Markdown Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - footnotes
+  - meta
+  - md_in_html
+
+# Plugins
+plugins:
+  - search
+  - macros
+  - ultralytics:
+      meta: true
+      twitter: true
+      open_graph: true
+      json_ld: true
+      sharing_buttons: true
+      faq_parsing: true
+  - minify_html
+
+# Extra Variables
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dev3l
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/dev3l
+  footer: |
+    <footer>
+      <p>Site built by Justin Beall from Dev3loper AI | AI-XP Engineer |
+      <a href="mailto:dev3loper.ai@gmail.com">dev3loper.ai@gmail.com</a> |
+      <a href="https://dev3loper.ai">https://dev3loper.ai</a></p>
+    </footer>
+
+```
+
+# --- directory structure ---
+
+```
+├── LICENSE
+├── README.md
+├── about-ephraim-designs
+│   ├── Action Plan.md
+│   ├── Combined - Compressed.md
+│   ├── Ephraim Designs - Development Plan - 20241127.md
+│   ├── Ephraim Designs As A Product.md
+│   ├── Jason Rakich - 20241127.md
+│   └── The Plan.md
+├── ephraim-designs
+│   ├── docs
+│   │   ├── images
+│   │   │   ├── banner.png
+│   │   │   ├── favicon.png
+│   │   │   └── logo-dark.png
+│   │   ├── index.md
+│   │   └── stylesheets
+│   │   └── extra.css
+│   └── mkdocs.yml
+├── pyproject.toml
+├── ruff_defaults.toml
+└── setup.cfg
+```
