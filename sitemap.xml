@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://dev3l.github.io/ephraim-designs/</loc>
-         <lastmod>2024-11-27</lastmod>
+         <loc>https://ephraim-designs.com/</loc>
+         <lastmod>2024-11-28</lastmod>
+    </url>
+    <url>
+         <loc>https://ephraim-designs.com/testimonials/</loc>
+         <lastmod>2024-11-28</lastmod>
+    </url>
+    <url>
+         <loc>https://ephraim-designs.com/portfolio/live-art/</loc>
+         <lastmod>2024-11-28</lastmod>
+    </url>
+    <url>
+         <loc>https://ephraim-designs.com/portfolio/murals/</loc>
+         <lastmod>2024-11-28</lastmod>
+    </url>
+    <url>
+         <loc>https://ephraim-designs.com/portfolio/paintings/</loc>
+         <lastmod>2024-11-28</lastmod>
     </url>
 </urlset>
