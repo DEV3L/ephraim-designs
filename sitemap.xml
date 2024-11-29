@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://ephraim-designs.com/</loc>
-         <lastmod>2024-11-28</lastmod>
+         <loc>https://dev3l.github.io/ephraim-designs/</loc>
+         <lastmod>2024-11-29</lastmod>
     </url>
     <url>
-         <loc>https://ephraim-designs.com/about/</loc>
-         <lastmod>2024-11-28</lastmod>
+         <loc>https://dev3l.github.io/ephraim-designs/about/</loc>
+         <lastmod>2024-11-29</lastmod>
     </url>
     <url>
-         <loc>https://ephraim-designs.com/services/</loc>
-         <lastmod>2024-11-28</lastmod>
+         <loc>https://dev3l.github.io/ephraim-designs/contact/</loc>
+         <lastmod>2024-11-29</lastmod>
     </url>
     <url>
-         <loc>https://ephraim-designs.com/testimonials/</loc>
-         <lastmod>2024-11-28</lastmod>
+         <loc>https://dev3l.github.io/ephraim-designs/services/</loc>
+         <lastmod>2024-11-29</lastmod>
     </url>
     <url>
-         <loc>https://ephraim-designs.com/portfolio/live-art/</loc>
-         <lastmod>2024-11-28</lastmod>
+         <loc>https://dev3l.github.io/ephraim-designs/testimonials/</loc>
+         <lastmod>2024-11-29</lastmod>
     </url>
     <url>
-         <loc>https://ephraim-designs.com/portfolio/murals/</loc>
-         <lastmod>2024-11-28</lastmod>
+         <loc>https://dev3l.github.io/ephraim-designs/portfolio/live-art/</loc>
+         <lastmod>2024-11-29</lastmod>
     </url>
     <url>
-         <loc>https://ephraim-designs.com/portfolio/paintings/</loc>
-         <lastmod>2024-11-28</lastmod>
+         <loc>https://dev3l.github.io/ephraim-designs/portfolio/murals/</loc>
+         <lastmod>2024-11-29</lastmod>
+    </url>
+    <url>
+         <loc>https://dev3l.github.io/ephraim-designs/portfolio/paintings/</loc>
+         <lastmod>2024-11-29</lastmod>
     </url>
 </urlset>

@@ -1,35 +1,3 @@
-/* Typography: Headings */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Playfair Display", serif; /* Custom font for headings */
-  color: #003366; /* Navy Blue for branding */
-}
-
-/* Tagline Styling */
-.tagline {
-  font-family: "Playfair Display", serif;
-  font-style: italic;
-  color: #ffd700; /* Gold for emphasis */
-  text-align: center;
-  margin: 1em 0;
-}
-
-/* Link Styling */
-a {
-  color: #003366; /* Navy Blue for links */
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: #ffd700; /* Gold on hover */
-  text-decoration: underline;
-}
-
 /* Footer Styling */
 footer {
   text-align: center;
