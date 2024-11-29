@@ -1,6 +1,7 @@
 .env
 
-ephraim-designs/site
+**/*/site
+**/*/artifacts
 
 bin
 tmp
