@@ -34,7 +34,17 @@ packages = ["src"]
 [tool.hatch.envs.default]
 type = "virtual"
 path = ".venv"
-dependencies = ["pyright", "pytest", "pytest-cov"]
+dependencies = [
+    "mkdocs-macros-plugin",
+    "mkdocs-material",
+    "mkdocs-minify-html-plugin",
+    "mkdocs-ultralytics-plugin",
+    "mkdocs",
+    "pymdown-extensions",
+    "pyright",
+    "pytest-cov",
+    "pytest",
+]
 
 [tool.hatch.envs.default.scripts]
 serve = "mkdocs serve"
