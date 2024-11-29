@@ -32,7 +32,7 @@ nav:
   # - Blog:
   #     - Blog Home: blog/index.md
   # - Testimonials: testimonials.md
-  # - Contact: contact.md
+  - Contact: contact.md
 
 # Plugins
 plugins:
