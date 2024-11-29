@@ -41,12 +41,12 @@ Every stroke tells a story, and at **Ephraim Designs**, those stories are as div
 
 Dive into the eclectic artistry of Ephraim Designs:
 
-- 🎨 **Murals**: From faith-inspired public art to playful and vibrant community walls.
-- 🖼️ **Canvas Art**: Thought-provoking abstracts, nature-inspired collections, and custom commissions that capture the imagination.
-- 🎭 **Live Art Events**: Witness the magic of art coming to life at festivals, churches, and private gatherings.
-- 🌟 **Collaborations**: Building connections through shared creativity.
+- **Murals**: From faith-inspired public art to playful and vibrant community walls.
+- **Canvas Art**: Thought-provoking abstracts, nature-inspired collections, and custom commissions that capture the imagination.
+- **Live Art Events**: Witness the magic of art coming to life at festivals, churches, and private gatherings.
+- **Collaborations**: Building connections through shared creativity.
 
-Visit our [Portfolio](portfolio/murals.md) for a closer look.
+Visit our [Portfolio](portfolio/index.md) for a closer look.
 
 ---
 

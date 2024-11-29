@@ -22,9 +22,11 @@ nav:
   - Home: index.md
   - About: about.md
   - Portfolio:
+      - Overview: portfolio/index.md
       - Murals: portfolio/murals.md
       - Paintings: portfolio/paintings.md
-      - Live Art: portfolio/live-art.md
+      - Live Art & Music: portfolio/live-art.md
+      - Other Projects: portfolio/other.md
   - Services: services.md
   # - Community Engagement: community-engagement.md
   # - Pricing: pricing.md
