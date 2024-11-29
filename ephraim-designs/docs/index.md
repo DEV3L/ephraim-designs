@@ -79,9 +79,12 @@ Check out our ongoing projects in [Community Engagement](community-engagement.md
 
 ---
 
-## Get In Touch
+## **Bring Your Vision to Life with Ephraim Designs**
 
-Want to start a mural project, commission a painting, or brainstorm over a bottle of hot sauce? Reach out to us—we’d love to connect:
+<img src="images/cta-creativity-path.png" alt="A radiant artistic pathway symbolizing creativity and connection with Ephraim Designs" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
 
-- **Email:** [JasonRakich@outlook.com](mailto:JasonRakich@outlook.com)
-- **Phone:** 330-347-8698 | 330-465-2417
+Whether it’s a mural for your space, a canvas for your story, or an idea waiting to be painted, **Ephraim Designs** is here to make it happen. Let’s collaborate and create something extraordinary.
+
+[Visit Our Contact Page](contact.md) to start your next masterpiece.
+
+> _Ephraim Designs: Creativity. Spirituality. Passion._
