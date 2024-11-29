@@ -1,20 +1,21 @@
 # Site Information
 site_name: Ephraim Designs
-site_url: https://ephraim-designs.com
-site_author: Jason Rakich
-site_description: "Transforming spaces with faith-centered art in Wooster, Ohio."
+site_url: https://dev3l.github.io/ephraim-designs/
+site_author: Justin Beall
+site_description: "Infusing creativity with spirituality and passion, Ephraim Designs transforms spaces through custom murals, canvas art, live events, and community projects. Discover the dynamic artistry of Jason Rakich in Wooster, Ohio."
 
 # Theme Configuration
 theme:
   name: material
   palette:
-    primary: "indigo" # Use a strong brand color
-    accent: "amber" # Secondary color for highlights
+    scheme: slate
+    primary: teal
+
   font:
-    text: "Open Sans" # Readable sans-serif font for body
+    text: Open Sans
     code: "Roboto Mono" # Monospace font for code blocks
   favicon: "images/favicon.png"
-  logo: "images/logo-dark.png"
+  logo: "images/logo.png"
 
 # Navigation Structure
 nav:
@@ -40,7 +41,6 @@ plugins:
   - ultralytics:
       verbose: true
       enabled: true
-      default_image: "https://ephraim-designs.com/images/banner.png"
       add_desc: true
       add_image: true
       add_keywords: true

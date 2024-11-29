@@ -1,24 +1,29 @@
 ---
 title: "Welcome to Ephraim Designs"
-description: "Transforming spaces with faith-centered art. Discover custom murals, canvas paintings, live art, and community projects by Jason Rakich in Wooster, Ohio."
+description: "Infusing creativity with spirituality and passion, Ephraim Designs transforms spaces with custom murals, canvas art, live events, and community projects in Wooster, Ohio."
 keywords:
-  - faith-centered art
+  - faith-inspired art
   - custom murals
   - canvas paintings
   - live art events
-  - community art projects
+  - community projects
   - Jason Rakich
   - Ephraim Designs
-image: "images/banner.png"
+  - dynamic artistry
+image: "images/home/hero-banner.png"
 author: "Jason Rakich"
 date: "2024-11-27"
 ---
 
-# Welcome to Ephraim Designs
-
-<img src="images/home/ephraim-logo.png" alt="Ephraim Designs Logo" style="display: block; margin: auto; width: 200px;">
-
-At **Ephraim Designs**, we specialize in creating transformative, faith-centered art that inspires and elevates the spaces around you. Led by **Jason E. Rakich**, our work blends artistry with a deep sense of community and spirituality. Explore our murals, canvas paintings, live events, and more as we bring your vision to life.
+<div style="text-align: center; background-image: url('images/home/hero-banner.png'); background-size: cover; background-position: center; padding: 100px 0; position: relative;">
+  <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.775);"></div>
+  <h1 style="font-size: 3.5rem; font-weight: 900; margin: 0; position: relative; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);">
+    Ephraim Designs
+  </h1>
+  <p style="font-size: 1.2rem; max-width: 700px; margin: 20px auto; color: #FFFFFF; font-weight: 600; position: relative; text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.8);">
+    Creativity. Spirituality. Passion. Transforming spaces with bold murals and evocative canvases.
+  </p>
+</div>
 
 ---
 
@@ -26,7 +31,7 @@ At **Ephraim Designs**, we specialize in creating transformative, faith-centered
 
 <img src="images/home/about-us.png" alt="About Ephraim Designs" style="display: block; margin: auto; width: 80%; max-width: 600px;">
 
-We are passionate about connecting with people through art. Every brushstroke tells a story, and every project embarks on a journey toward meaningful expression. From custom murals to engaging live art events, **Ephraim Designs** delivers creative experiences that celebrate faith, creativity, and community.
+Every stroke tells a story, and at **Ephraim Designs**, those stories are as diverse as our palette. We specialize in creating art that is deeply personal, spiritually resonant, or just plain fun. Whether painting a glowing dove on a church wall, a nude abstract for a collector’s living room, or crafting hot sauce labels for a fiery culinary creation, Jason infuses every project with heart and humor.
 
 ---
 
@@ -34,14 +39,14 @@ We are passionate about connecting with people through art. Every brushstroke te
 
 <img src="images/home/portfolio-highlights.png" alt="Portfolio Highlights" style="display: block; margin: auto; width: 80%; max-width: 600px;">
 
-Discover the diversity and depth of our creations:
+Dive into the eclectic artistry of Ephraim Designs:
 
-- 🎨 **Murals**: Transforming walls into living stories for homes, businesses, and public spaces.
-- 🖼️ **Canvas Paintings**: Tailored artwork that reflects your style and values.
-- 🎭 **Live Art Events**: Witness creativity unfold in real time at public and private gatherings.
-- 🤝 **Community Projects**: Strengthening bonds through collaborative and inspiring art.
+- 🎨 **Murals**: From faith-inspired public art to playful and vibrant community walls.
+- 🖼️ **Canvas Art**: Thought-provoking abstracts, nature-inspired collections, and custom commissions that capture the imagination.
+- 🎭 **Live Art Events**: Witness the magic of art coming to life at festivals, churches, and private gatherings.
+- 🌟 **Collaborations**: Building connections through shared creativity.
 
-Visit our [Portfolio](portfolio/murals.md) to explore more of our work.
+Visit our [Portfolio](portfolio/murals.md) for a closer look.
 
 ---
 
@@ -49,14 +54,14 @@ Visit our [Portfolio](portfolio/murals.md) to explore more of our work.
 
 <img src="images/home/services.png" alt="Our Services" style="display: block; margin: auto; width: 80%; max-width: 600px;">
 
-Our range of services is designed to bring your artistic vision to life:
+Whatever your vision, we’re here to bring it to life. Our services include:
 
-- **Custom Murals**: Unique designs tailored to homes, businesses, and places of worship.
-- **Canvas Paintings**: From abstract explorations to narrative masterpieces, crafted just for you.
-- **Live Painting Events**: Interactive and immersive art experiences that captivate audiences.
-- **Workshops & Classes**: Unlock your creativity with hands-on artistic guidance.
+- **Custom Murals**: Turn walls into stories with designs tailored to your space.
+- **Canvas Paintings**: Whether you want abstract, narrative, or a little of both, we’ve got you covered.
+- **Live Painting Events**: Interactive sessions that amaze and inspire, perfect for any occasion.
+- **Workshops & Classes**: Unlock your inner artist with personalized guidance.
 
-Learn more on our [Services](services.md) page.
+Learn more about our offerings on the [Services](services.md) page.
 
 ---
 
@@ -64,19 +69,19 @@ Learn more on our [Services](services.md) page.
 
 <img src="images/home/community-engagement.png" alt="Community Engagement" style="display: block; margin: auto; width: 80%; max-width: 600px;">
 
-Art has the power to connect and inspire. At **Ephraim Designs**, we actively participate in our local community through:
+Art thrives in connection. At **Ephraim Designs**, we believe in the power of collaboration to spark joy and build community:
 
-- **Collaborative Projects**: Creating meaningful art alongside neighbors and friends.
-- **Festivals & Events**: Bringing vibrant live art to life at public gatherings.
-- **Mentorship**: Nurturing the next generation of artists through teaching and encouragement.
+- **Collaborative Projects**: Join us in creating art that reflects the spirit of Wooster.
+- **Festivals & Events**: Bringing creativity and flair to local celebrations.
+- **Mentorship**: Guiding new artists to find their voice and vision.
 
-Read about our efforts in [Community Engagement](community-engagement.md).
+Check out our ongoing projects in [Community Engagement](community-engagement.md).
 
 ---
 
 ## Get In Touch
 
-We’d love to hear from you! Reach out to discuss your next project, commission a piece, or simply connect with us:
+Want to start a mural project, commission a painting, or brainstorm over a bottle of hot sauce? Reach out to us—we’d love to connect:
 
 - **Email:** [JasonRakich@outlook.com](mailto:JasonRakich@outlook.com)
 - **Phone:** 330-347-8698 | 330-465-2417
