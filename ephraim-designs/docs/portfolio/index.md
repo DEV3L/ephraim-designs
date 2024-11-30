@@ -50,13 +50,21 @@ Hot sauce labels, quirky commissions, and the experimental edge that keeps Jason
 
 **Flamingo Jack’s Food Truck Mural**
 
+<img src="../images/jason-art/jason-flamingo-jacks.jpg" 
+     alt="A vibrant and dynamic food truck mural by Jason Rakich, featuring tropical themes and bold, playful designs" 
+     style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 3/4;">
+
 A tropical explosion of humor and color that turns heads (and maybe earns extra tips).
 
 **Obie One Kanibbie Mural**
 
 A Jedi cat with enough swagger to take on the Empire—and make you smile while doing it.
 
-**Solar Skyline Painting**
+**Wayne Center for the Arts Exhibition**
+
+<img src="../images/jason-art/jason-wayne-center-showing.jpg" 
+     alt="Jason Rakich presenting his diverse paintings at the Wayne Center for the Arts Exhibition, with bold colors and narrative-driven designs on display" 
+     style="display: block; margin: auto; width: 100%; max-width: 800px; aspect-ratio: 4/3;">
 
 Abstract art that channels renewal and spirituality, glowing like a sunrise after a storm.
 
