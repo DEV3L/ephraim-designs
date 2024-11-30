@@ -1,3 +1,21 @@
+/* Define the Maranallo font */
+@font-face {
+  font-family: "Maranallo";
+  src: url("../assets/fonts/maranallo-3.woff2") format("woff2"),
+    url("../assets/fonts/maranallo-3.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Maranallo", "Playfair Display", serif !important;
+}
+
 /* Footer Styling */
 footer {
   text-align: center;
