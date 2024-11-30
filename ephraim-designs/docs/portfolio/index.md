@@ -50,7 +50,7 @@ Hot sauce labels, quirky commissions, and the experimental edge that keeps Jason
 
 **Flamingo Jack’s Food Truck Mural**
 
-<img src="../images/jason-art/jason-flamingo-jacks.jpg" 
+<img src="../images/jason-art/jason-mural-flamingo-jacks.jpg" 
      alt="A vibrant and dynamic food truck mural by Jason Rakich, featuring tropical themes and bold, playful designs" 
      style="display: block; margin: auto; width: 100%; max-width: 600px; aspect-ratio: 3/4;">
 

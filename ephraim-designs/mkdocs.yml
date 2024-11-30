@@ -9,9 +9,10 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: teal
+    primary: indigo
 
   font:
+    header: "Dank Mono"
     text: Open Sans
     code: "Roboto Mono" # Monospace font for code blocks
   favicon: "images/favicon.png"
