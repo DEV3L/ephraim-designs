@@ -82,12 +82,12 @@ Every piece in this portfolio is a little rebellious, a little spiritual, and a 
 
 ---
 
-## **Bring Your Vision to Life with Ephraim Designs**
+## **[Bring Your Vision to Life with Ephraim Designs](../contact.md)**
 
 <img src="../images/cta-creativity-path.png" alt="A radiant artistic pathway symbolizing creativity and connection with Ephraim Designs" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
 
 Whether it’s a mural for your space, a canvas for your story, or an idea waiting to be painted, **Ephraim Designs** is here to make it happen. Let’s collaborate and create something extraordinary.
 
-[Visit Our Contact Page](contact.md) to start your next masterpiece.
+[Visit Our Contact Page](../contact.md) to start your next masterpiece.
 
 > _Ephraim Designs: Creativity. Spirituality. Passion._

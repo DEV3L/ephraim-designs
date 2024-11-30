@@ -111,7 +111,7 @@ Think you can’t paint? Think again. Jason’s workshops turn skeptics into bel
 
 ---
 
-## **Bring Your Vision to Life with Ephraim Designs**
+## **[Bring Your Vision to Life with Ephraim Designs](contact.md)**
 
 <img src="../images/cta-creativity-path.png" alt="A radiant artistic pathway symbolizing creativity and connection with Ephraim Designs" style="display: block; margin: auto; width: 100%; max-width: 800px; margin-bottom: 20px;">
 
